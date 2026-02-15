@@ -79,7 +79,7 @@ jobs:
         git add csv_exports/
         # Check if there are changes to commit
         if git diff --staged --quiet; then
-          print("No changes to commit")
+          echo "No changes to commit"
         else
           git commit -m "Bulk convert all models to CSV"
           git push
