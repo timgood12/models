@@ -1,4 +1,4 @@
-name: Extract NPVs
+name: Convert All to CSV
 
 on:
   push:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  analyze-models:
+  convert-models:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -23,108 +23,64 @@ jobs:
       run: |
         pip install pandas openpyxl
         
-    - name: Run Extraction Script
+    - name: Run Conversion Script
       run: |
-        cat <<EOF > extract.py
-        import glob, os, re, math
+        cat <<EOF > convert.py
+        import glob, os
         import pandas as pd
-        from openpyxl import load_workbook
-
-        print("Starting extraction...")
+        import warnings
         
-        # Regex for NPV variants
-        LABEL_RE = re.compile(r"\bNPV\b|NET\s+PRESENT\s+VALUE", re.IGNORECASE)
+        # Suppress openpyxl warnings about extensions/formatting
+        warnings.simplefilter("ignore")
 
-        def is_number(x):
-            return isinstance(x, (int, float)) and x is not None and not (isinstance(x, float) and (math.isnan(x) or math.isinf(x)))
-
-        def find_near_number(ws, r, c, max_radius=8):
-            # Check right
-            for dc in range(1, max_radius+1):
-                v = ws.cell(r, c+dc).value
-                if is_number(v): return (r, c+dc, v)
-            # Check down
-            for dr in range(1, max_radius+1):
-                v = ws.cell(r+dr, c).value
-                if is_number(v): return (r+dr, c, v)
-            # Check box
-            for radius in range(1, max_radius+1):
-                for rr in range(r-radius, r+radius+1):
-                    for cc in range(c-radius, c+radius+1):
-                        if rr < 1 or cc < 1: continue
-                        v = ws.cell(rr, cc).value
-                        if is_number(v): return (rr, cc, v)
-            return (None, None, None)
-
-        rows = []
+        print("Starting bulk conversion...")
+        
+        output_dir = "csv_exports"
+        os.makedirs(output_dir, exist_ok=True)
+        
         files = glob.glob("*.xlsx")
-        print(f"Found {len(files)} files")
+        print(f"Found {len(files)} Excel files")
 
         for path in files:
             ticker = os.path.splitext(os.path.basename(path))[0]
-            out = {
-                "file": path, 
-                "ticker": ticker, 
-                "npv": None, 
-                "found_via": None,
-                "sheet": None
-            }
+            # Sanitize filename for safety
+            safe_ticker = "".join([c for c in ticker if c.isalnum() or c in (' ', '-', '_')]).strip()
+            print(f"Processing {safe_ticker}...")
             
             try:
-                wb = load_workbook(path, data_only=True, read_only=True)
-                
-                # Method 1: Check A1 on first sheet (User hint)
-                try:
-                    ws0 = wb[wb.sheetnames[0]]
-                    a1 = ws0["A1"].value
-                    if is_number(a1):
-                        out.update({"npv": float(a1), "found_via": "A1_check", "sheet": wb.sheetnames[0]})
-                except: pass
-
-                # Method 2: Heuristic Scan if Method 1 failed or if we want to confirm
-                # (Only if Method 1 didn't give a clear result, or we verify)
-                # Let's trust heuristic scan if it finds a labeled value, overriding A1 unlabeled
-                
-                found_label = False
-                for sname in wb.sheetnames:
-                    if found_label: break
-                    ws = wb[sname]
-                    # Scan top-left region (most models have summary there)
-                    max_r = min(ws.max_row or 200, 200)
-                    max_c = min(ws.max_column or 50, 50)
-                    
-                    for r in range(1, max_r+1):
-                        for c in range(1, max_c+1):
-                            val = ws.cell(r, c).value
-                            if isinstance(val, str) and LABEL_RE.search(val):
-                                _, _, num = find_near_number(ws, r, c)
-                                if is_number(num):
-                                    out.update({
-                                        "npv": float(num), 
-                                        "found_via": f"label_match at {ws.cell(r,c).coordinate}",
-                                        "sheet": sname
-                                    })
-                                    found_label = True
-                                    break
-                        if found_label: break
+                # Read all sheets
+                xls = pd.ExcelFile(path)
+                for sheet_name in xls.sheet_names:
+                    try:
+                        df = pd.read_excel(xls, sheet_name=sheet_name)
+                        
+                        # Sanitize sheet name
+                        safe_sheet = "".join([c for c in sheet_name if c.isalnum() or c in (' ', '-', '_')]).strip()
+                        if not safe_sheet:
+                            safe_sheet = "Sheet"
+                            
+                        out_name = f"{safe_ticker}_{safe_sheet}.csv"
+                        out_path = os.path.join(output_dir, out_name)
+                        
+                        df.to_csv(out_path, index=False)
+                    except Exception as e:
+                        print(f"  Error on sheet {sheet_name}: {e}")
                         
             except Exception as e:
-                out["error"] = str(e)
-                print(f"Error processing {path}: {e}")
-            
-            rows.append(out)
-
-        df = pd.DataFrame(rows)
-        print(df.head())
-        df.to_csv("npv_analysis_results.csv", index=False)
+                print(f"Failed to read {path}: {e}")
         EOF
         
-        python extract.py
+        python convert.py
         
-    - name: Commit Results
+    - name: Commit CSVs
       run: |
-        git config --global user.name 'NPV Bot'
+        git config --global user.name 'CSV Bot'
         git config --global user.email 'bot@noreply.github.com'
-        git add npv_analysis_results.csv
-        git commit -m "Auto-generated NPV analysis"
-        git push
+        git add csv_exports/
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          print("No changes to commit")
+        else
+          git commit -m "Bulk convert all models to CSV"
+          git push
+        fi
