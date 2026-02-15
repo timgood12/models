@@ -1,0 +1,19 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,Name,Details,Diseases,Drugs
+,CD20,,,
+,CTLA-4,,Rheumatoid Arthritis,"Orencia (abatacept, BMY)"
+,IL-4,composed of IL-4Ralpha subunit,,
+,IL-4Ralpha,IL-13Ralpha1 forms a heterodimer with IL-4Ralpha,,"Dupixent (dupilumab, SNY/REGN)"
+,IL-12,contains p40 subunit,,
+,IL-13,type 2 inflammatory cycle,Atopic Dermatitis,"Ebglyss (lebrikizumab, LLY)"
+,IL-13R,IL-13Ralpha1 forms a heterodimer with IL-4Ralpha,,
+,IL-17,,,"Taltz (ixekizumab, LLY)"
+,IL-23,contains p19 and p40 subunits,,"Omvoh (mirikizumab, LLY)"
+,IL-23R,can be targeted,,"icotrokinra (JNJ/PTGX), Nimble Therapeutics"
+,"integrin, alpha4beta7",,,
+,JAK,,Rheumatoid Arthritis,"Rinvoq (upadacitinib, ABBV), Olumiant (baricitinib, LLY/INCY)"
+,p19,"subunit of IL-23. Target of Tremfya, Omvoh, Skyrizi",Crohn's Disease,"Skyrizi (risankizumab, ABBV), Omvoh (LLY), Tremfya (guselkumab, JNJ)"
+,p38,,,
+,p40,subunit of IL-23 and IL-12. Target of Stelara.,Psoriasis,
+,RIPK,,,
+,TNF-alpha,,Rheumatoid Arthritis,"Humira (adalimumab, ABBV), Enbrel (etanercept, AMGN/WYE), Cimzia, Remicade, Simponi"

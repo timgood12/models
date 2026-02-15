@@ -1,0 +1,28 @@
+Main,Unnamed: 1,Unnamed: 2
+,Brand,"Lynparza, fka AZD2281"
+,Generic,olaparib
+,MOA,"PARP1 inhibitor. Also inhibits PARP2, PARP3"
+,Indication,"aOC, mCRPC, pancreatic, mBC"
+,Economics,"AZN. Originally from KuDOS, acquired by AZN in 2006"
+,PK,"LogP=1.9, MW=434, HBD=1, HBA=5, RB=4, TPSA=82. Capsule discontinued, Tablet replaced"
+,IP,"7151102 first patent doesn't correspond to structure, expired"
+,,7449464 expires 2024
+,,"8071579 expires 2027, MOU patent"
+,,"8143241 expires 2027, MOU patent"
+,,"8475842 expires 2029, formulation patent"
+,,"8859562 expires 2031, ridiculous claim"
+,,11633396
+,,"Sandoz, Natco, Cipla generics"
+,,"Natco filed ANDA 218044 12/28/2022 (23-796 NJ district), 3:24-cv-10624-RK-TJB, consolidated under 3:23796"
+,,Docket active as of 1/22/2025.
+,Clinical Trials,
+,,Phase III SOLO-2 - NCT01874353
+,,
+,,Phase III POLO
+,,
+,,"Phase III ""SOLO-1"" n=391 1L aOC BRCA+ in PR/CR - NEJM 2018, NCT01844986"
+,,HR=0.30 TTP/OS
+,,
+,,"Phase III ""PROpel"" 1L CRPC abiraterone+-olaparib - NEJM 2022, NCT03732820"
+,,"mibPFS HR=0.66, OS=0.86 (p=0.29 immature)"
+,,24.8 months vs. 16.6 months mibPFS

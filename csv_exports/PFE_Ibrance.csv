@@ -1,0 +1,12 @@
+Main,Unnamed: 1,Unnamed: 2
+,Brand,"Ibrance, fka PF-0332991"
+,Generic,palbociclib
+,Indication,mBC
+,MOA,CDK4/6 inhibitor
+,SMILES,CC1=C(C(=O)N(C2=NC(=NC=C12)NC3=NC=C(C=C3)N4CCNCC4)C5CCCC5)C(=O)C
+,InChI,AHJRHEGDXFFMBM-UHFFFAOYSA-N
+,Molecule,"C24H29N7O2, MW=447.5, LogP=1.8, HBD=2, HBA=8, RB=5, TPSA=103"
+,Clinical Trials,
+,,"Phase III ""PALOMA-2"" 1L ER+HER2- mBC combination with letrozole vs. letrozole"
+,,OS 53.9mo vs. 51.2mo - p=NS
+,,PFS met

@@ -1,0 +1,48 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,Brand Name,"Effient, fka CS-747",,,,
+,Generic Name,Prasugrel,,,,
+,Timeline,Study completes in Mid 2007? Data likely to be released in late 2007. (delayed from late 2006). MAA approved 4/09.,,,,
+,Mechanism,Develop drug as superior to Plavix regardless of Plavix IP,,,,
+,,"Thienopyridine class of ADP receptor inhibitors (on P2Y12 receptor), like ticlopidine and clopidogrel.",,,,
+,,"  Plavix is metabolized slowly, so giving it at 3 hours puts it at a disadvantage. Prasugrel works within 30 minutes.",,,,
+,,  Mechanism may suggest that prasugrel avoids the 30% non-responder rate seen with Plavix.,,,,
+,,"  Prasugrel is a prodrug like Plavix, but only requires one step versus two for Plavix.",,,,
+,Economics,US/UK 50-50 with royalty to Daiichi Sankyo in other territories,,,,
+,Commentary,"""Cost is a big issue"".",,,,
+,Rx,,Effient,Plavix,Market,Share
+,,2009-12-18 00:00:00,2962,686130,689092,0.004298410081672694
+,,2009-12-11 00:00:00,2684,691185,693869,0.003868165316507871
+,,2009-12-04 00:00:00,2430,775061,777491,0.003125438107965237
+,,2009-11-27 00:00:00,2089,601931,604020,0.00345849475182941
+,,2009-11-20 00:00:00,2166,672605,674771,0.003209977903614708
+,,2009-11-13 00:00:00,1800,680955,682755,0.00263637761715403
+,,2009-11-06 00:00:00,1808,726294,728102,0.002483168567041431
+,,2009-10-30 00:00:00,1550,687653,689203,0.002248974540157254
+,,,,,,
+,Price,$5.36/day.,,,,
+,Clinical Trials,,,,,
+,,result from p2 cross-over study at ACC in March 2005,,,,
+,,Lower dose (5mg) studies to begin?,,,,
+,,,,,,
+,,"TIMI-38 (TRITON) study, n=13614, head-to-head vs. Plavix in ACS undergoing PCI - Results November 4 expectation",,,,
+,,"700-800 sites, started enrolling Nov 1st 2005, finished enrolling Jan 2007. Study completes July 2007. 12 month followup.",,,,
+,,PE is composite 30-day MACE. Study ends after 875 events and 6 months past last patient enrolled. Event rate has been lower than expected.,,,,
+,,Results: Lowered stent thrombosis by 52%. Lowered primary endpoint 19% vs Plavix.,,,,
+,,Docs think 10-15% improvement for Prasugrel with better PK.,,,,
+,,Data to be presented at AHA 2007/ACC 2008.,,,,
+,,"  SNY R&D Head notes favorable prasugrel design: lower Plavix loading dose, randomization 3 hours ahead of PCI vs 6 hours (optimal).",,,,
+,,  300mg loading dose for Plavix is suboptimal as many physicians use 600mg. Label indicates 300mg.,,,,
+,,Enrollment criteria different from JUMBO. TRITON includes only UA/NSTEMI with TIMI>3. JUMBO TIMI mean was 2-2.5.,,,,
+,,  Recurrent event sub-analysis and ESC 2008 data are forthcoming. 52% reduction in stent-thrombosis.,,,,
+,,,,,,
+,,JUMBO Phase II,,,,
+,,n=900 presented at ESC 2004 showed non-inferiority to Plavix,,,,
+,,"  Subset analysis of patients on 40mg loading dose with 7.5mg maintenance, 60/10mg or 60/15mg.",,,,
+,,at 10mg/day maintenance two patients exhibited complete inhibition of collagen-induced platelet aggregation,,,,
+,,  Investigator expects bleeds and mortality to be higher for Prasugrel in TRITON.,,,,
+,,1.7% bleeding vs 1.2% with Plavix but no risks of major bleeds.,,,,
+,,"    9.4% MACE for Plavix, 7.2% MACE for prasugrel, p=0.30. MACE % at 30 days.",,,,
+,,,,,,
+,,Phase III TRILOGY n=7243 unstable angina or MI without ST elevation who did not undergo revascularization,,,,
+,,"13.9% hit the primary endpoint of death, CV, MI, etc in prasugrel versus 16.0% in Plavix, HR=0.91, p=0.21.",,,,
+,,Bleeding similar.,,,,

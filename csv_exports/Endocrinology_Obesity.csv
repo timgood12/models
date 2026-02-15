@@ -1,0 +1,16 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,NCT,Drug,Phase,n,Time,WL subtracted,WL absolute
+,REDEFINE 1,cagri,III,3417,68 weeks,0.095,0.118
+,REDEFINE 1,semaglutide,III,3417,68 weeks,0.138,0.161
+,REDEFINE 1,placebo,III,3417,68 weeks,-,0.023
+,REDEFINE 1,cagri+semaglutide,III,3417,68 weeks,0.20400000000000001,0.227
+,OASIS 4,semalutide,III,307,64 weeks,0.11400000000000002,0.136
+,OASIS 4,placebo,III,307,64 weeks,-,0.022
+,STEP,semaglutide,III,616,52 weeks,0.10700000000000001,0.133
+,STEP,placebo,III,616,52 weeks,-,0.026
+,SURMOUNT-1,tirzepatide,III,1032,176 weeks,0.20900000000000002,0.23
+,SURMOUNT-1,placebo,III,1032,176 weeks,-,0.021
+,SURMOUNT-5,tirzepatide,III,751,72 weeks,,0.202
+,SURMOUNT-5,semaglutide,III,751,72 weeks,,0.137
+,Phase I,maridebart,I,,13 weeks,,0.15
+,Phase I,maridebart,I,,52 weeks,,0.2

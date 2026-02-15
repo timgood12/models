@@ -1,0 +1,30 @@
+Main,Unnamed: 1,Unnamed: 2
+,"Aspect, Alain","Conclusively violated Bell inequalities, ruling out LHVM."
+,Bell inequality,1964 tests which determine whether correlations between particles can be explained classically or require entanglement. The inequalities required local hidden-variable theories to satisfy them. Experimental results show consistent violation of Bell inequalities.
+,"Bell, John",Bell showed entanglement prevents any local hidden-variable theory from reproducing quantum predictions.
+,Bloc sphere,useful abstraction
+,bound entanglement phenomenon,
+,braket,see Dirac
+,Cooper pair,
+,dense coding,
+,Dirac notation,| >
+,entanglement,"Coined by Schrodinger in 1935, a core quantum effect which links particles. Measuring/altering one instantly influences the other."
+,,"Mathematically, entanglement implies that global states cannot be factored into their product states. This is due to nonlocality and superposition. Global state cannot be decomposed, unlike classical physics."
+,EPR,"Einstein, Podolsky & Rosen, in 1935, published ""Can QM Description of Physical Reality be Considered Complete?"". They highlighted entanglement and critically challenged quantum theory, suggesting violation of locality. EPR tried to imply entanglement, which was conceptually absurd. The implication contradicted the classical position, where definite, predetermined values must exist for measurable quantities, whether or not measurements have been performed. Bell refuted this later."
+,Grover's algorithm,
+,Hamiltonian,
+,ion trap,
+,Josephson junction,
+,local hidden variable model,"Conceptual model which restores classicality to QM. Implies measurement results are a function of hidden properties of particles, which are independent of measurement. Perhaps QM is probabilistic because we are unaware of these hidden variables, which only make it look probabilistic. Implies locality: measurements or revents at one location cannot simultaneously affect outcomes somewhere else (at least at the speed of light or less). Implies determinism--local apparatus settings are independent of hidden variables."
+,one-qubit gate,
+,quantum gate,
+,qubit,
+,Schrodinger,Coined entanglement in 1935. Presented Schrodinger's cat thought experiment.
+,Schrodinger's cat,Famous thought experiment.
+,Shor's algorithm,
+,superconductor,
+,superposition,
+,surface code,
+,two-qubit gate,
+,von Neumann entropy,"quantifies the amount of uncertainty associated with a quantum state, akin to Shannon entropy."
+,"von Neumann, John","In 1932, developed mathematical foundation of quantum mechanics using Hilbert spaces. ""Mathematical Foundations of Quantum Mechanics"" was published."

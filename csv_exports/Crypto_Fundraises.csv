@@ -1,0 +1,553 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25
+,Name,Round,Date,Amount,Syndicate,Lead,Electric Capital,Variant,Union Square Ventures,Multicoin,Jump Crypto,,Pantera,Khosla Ventures,GV,Ribbit Capital,Tiger,FTX Ventures,a16z,Atomic,Dragonfly,Paradigm,Digital Currency Group,,Polychain
+,0x,Series B,2022-04-26 00:00:00,$70M,,,,,,,Jump Crypto,,Pantera Capital,,,,,,,,,,,,
+,0x,Series A,2021-02-05 00:00:00,$15M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,1inch,Series A,2020-12-02 00:00:00,$12M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,1inch,Seed,2020-08-11 00:00:00,$2.8M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,3Box,Series A,,,,,,,,Multicoin,,,,,,,,,,,,,Digital Currency Group,,
+,Abra,Series A,2015-09-10 00:00:00,$12.6M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Acala Network,Series A,2020-08-27 00:00:00,$7.3M,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,Acala Network,Seed,2020-03-27 00:00:00,$1.4M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Afriex,Series A,2022-04-25 00:00:00,$10M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Agoric,,2021-11-11 00:00:00,$32M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Agoric,Seed,2018-05-21 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,AI Arena,Seed,2021-10-27 00:00:00,$5M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Alchemy,Series C,2022-02-08 00:00:00,$200M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Alchemy,Series C,2021-10-28 00:00:00,$250M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Alchemy,Series B,2021-04-28 00:00:00,$80M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Alchemy,Series A,2019-12-17 00:00:00,$15M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Aleo,Series A,2021-04-20 00:00:00,$28M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Alkimiya Labs,,2021-06-02 00:00:00,—,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Alluva,ICO,2019-03-01 00:00:00,$10M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,AltLayer,Seed,2022-07-04 00:00:00,$7.2M,,,,,,,Jump Crypto,,,,,,,,,,,,,,Polychain
+,Altonomy,Seed,2019-07-15 00:00:00,$7M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Amber Group,Series B,2022-02-21 00:00:00,$200M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Amber Group,Series B,2021-06-20 00:00:00,$100M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Amber Group,Series A,2020-02-14 00:00:00,$28M,,,,,,,,,Pantera Capital,,,,,,,,Dragonfly,Paradigm,,,Polychain
+,Ampleforth,,2018-12-10 00:00:00,$1.8M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Ampleforth,Seed,2018-03-19 00:00:00,$3M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Anchor Protocol,,2021-03-17 00:00:00,$20M,,,,,,,,,Pantera Capital,,,,,,,,Dragonfly,,,,
+,Anchorage,Series A,2019-01-23 00:00:00,$17M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Ancient8,Seed,2022-06-08 00:00:00,$6M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Ancient8,Seed,2022-01-19 00:00:00,$4M,,,,,,,,,Pantera Capital,,,,,,,,Dragonfly,,,,
+,Angelic,Seed,2022-03-25 00:00:00,$10M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Ankr,,2018-06-21 00:00:00,$15M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Anoma,Series A,2021-11-17 00:00:00,$26M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Anoma,,2021-01-31 00:00:00,$6.8M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Apex,Seed,2022-03-03 00:00:00,—,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,API3,Seed,2020-11-12 00:00:00,$3M,,,,,,,,,Pantera Capital,,,,,,,,,,Digital Currency Group,,
+,Aptos,Seed,,,,,,,,Multicoin,,,,,,,,,a16z,,,,,,
+,Aptos,Series A,,,,,,,,Multicoin,Jump Crypto,,,,,,,,a16z,,,,,,
+,Arcade,Series A,2021-12-22 00:00:00,$15M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,ARCx,,2021-06-02 00:00:00,$1.3M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Argent,Series B,2022-04-28 00:00:00,$40M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Argent,Series A,2020-03-09 00:00:00,$12M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,AscendEX,Series B,2021-11-03 00:00:00,$50M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Astar Network,,2022-01-28 00:00:00,$22M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Audius,,2021-09-16 00:00:00,$5M,,,,,,Multicoin,,,Pantera Capital,,,,,,,,,,,,
+,Audius,,2020-07-30 00:00:00,$3.1M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Audius,Series A,2018-08-08 00:00:00,$5.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Aurora,Series A,2021-10-15 00:00:00,$12M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Autograph,Series B,,,,,,,,,,,,,,,,,a16z,,,,,,
+,Ava Labs,ICO,2021-09-16 00:00:00,$230M,,,,,,,,,,,,,,,,,Dragonfly,,,,Polychain
+,Ava Labs,Series A,2019-02-01 00:00:00,$6M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Ava Labs,ICO,2020-06-25 00:00:00,$12M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Axelar,Series B,2022-02-15 00:00:00,$35M,,,,,,,,,,,,,,,,,Dragonfly,,,,Polychain
+,Axelar,Series A,2021-07-15 00:00:00,$25M,,,,,,,,,,,,,,,,,Dragonfly,,,,Polychain
+,AZA Finance,Series A,2017-08-30 00:00:00,$6.7M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,AZA Finance,Seed,2015-02-09 00:00:00,$1.1M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Aztec Protocol,Series A,2021-12-16 00:00:00,$17M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Babel Finance,Series B,2022-05-25 00:00:00,$80M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Babel Finance,Series A,2021-05-10 00:00:00,$40M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Babel Finance,,2020-03-05 00:00:00,—,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Badger DAO,,2021-03-03 00:00:00,$21M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Bakkt,Series B,2020-03-16 00:00:00,$300M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Bakkt,Series A,2018-12-31 00:00:00,$182.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Balancer Labs,Series A,2021-02-10 00:00:00,$5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Basis,ICO,2018-04-18 00:00:00,$133M,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,BBS Network,Seed,2021-12-06 00:00:00,$1.5M,,,,,,,,,,,,,,,,,,,,,Polychain
+,BCB Group,Series A,2022-01-25 00:00:00,£44M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,BCB Group,,2021-03-02 00:00:00,$4.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,BENQI Finance,,2021-04-01 00:00:00,$6M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,BetDEX,Seed,2021-11-11 00:00:00,$21M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,BGOGO,,2018-09-18 00:00:00,$4.9M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Bitaccess,Seed,2014-07-16 00:00:00,$1M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,BitClout,ICO,2021-09-21 00:00:00,$200M,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,BitClout,,2021-03-23 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,BitDAO,,2021-06-16 00:00:00,$230M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,BitGo,,2022-02-08 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Bitmark,Series B,,,,,,,,,,,,,,,,,,,,,Digital Currency Group,,
+,BitOasis,Series B,2021-10-06 00:00:00,$30M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,BitOasis,,2018-01-16 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,BitPesa,Series A,2017-01-31 00:00:00,$2.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,BitPesa,,2015-02-10 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Bitso,Series C,2021-05-05 00:00:00,$250M,,,,,,,,,Pantera Capital,,,,,,,,,Paradigm,,,
+,Bitso,Series B,2020-12-09 00:00:00,$62M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Bitstamp,,2014-03-17 00:00:00,$10M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Blast Royale,ICO,2022-04-13 00:00:00,$5M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,BlockFi,Series D,2021-02-19 00:00:00,$350M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Blockfolio,Series A,2019-08-05 00:00:00,$2.6M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Blockfolio,Series A,2018-10-10 00:00:00,$11.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,BloXroute Labs,Series B,2019-05-09 00:00:00,$10M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,BloXroute Labs,Series B,2022-04-12 00:00:00,$70M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Blur,Seed,2022-03-28 00:00:00,$11M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Bounce,,2020-03-15 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Braintrust,,2020-10-01 00:00:00,$18M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Branch,Seed,2022-05-11 00:00:00,$12.5M,,,,,,,,,,,,,,,,,Dragonfly,,,,Polychain
+,Brave,Seed,2016-08-01 00:00:00,$4.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,BreederDAO,Series A,,,,,,,,,,,,,,,,,a16z,,,,,,
+,BTCjam,Series A,2014-12-24 00:00:00,$6.1M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Burnt Finance,Series A,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Buxx,ICO,2018-08-31 00:00:00,$20M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Capsule Social,Seed,2021-04-12 00:00:00,$2.5M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Cega,Seed,2022-03-08 00:00:00,$4.3M,,,,,,,,,Pantera Capital,,,,,,,,Dragonfly,,,,
+,Cega Finance,Seed,2022-03-08 00:00:00,$4.3M,,,,,,,,,Pantera Capital,,,,,,,,Dragonfly,,,,
+,Celo,,2019-04-02 00:00:00,$30M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Celo,,2018-06-25 00:00:00,$6.5M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Chain,Series C,2015-09-09 00:00:00,$30M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Chain,Series B,2014-08-20 00:00:00,$9.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Chainalysis,Series D,2021-03-26 00:00:00,$100M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Chainflip,,2022-05-11 00:00:00,$10M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,ChangeCoin,Seed,2014-12-02 00:00:00,$3.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,ChangeTip,Seed,2014-12-02 00:00:00,$3.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Chronicled,Seed,2016-03-09 00:00:00,$3.4M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Chronicled,,2015-08-27 00:00:00,$1.4M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Circle,Series E,2018-05-15 00:00:00,$110M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Circle,Series C,2015-04-30 00:00:00,$50M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Circle,Series B,2014-03-26 00:00:00,$17M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Citadel Securities,,2022-01-11 00:00:00,$1.2B,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Civic,Seed,2016-01-27 00:00:00,$2.8M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Codex Protocol,Seed,2018-02-28 00:00:00,$5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,CoFiX,Seed,2020-10-07 00:00:00,$500K,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Coin Metrics,Series A,2020-03-26 00:00:00,$6M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Coinbase,,2019-01-01 00:00:00,—,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Coinbase,Series E,2018-10-30 00:00:00,$300M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Coinbooks,Seed,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,CoinDCX,Series D,2022-04-19 00:00:00,$135M,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,CoinDCX,Series C,2021-08-01 00:00:00,$90M,,,,,,,,,,,,,,,,,,,,,Polychain
+,CoinDCX,Series B,2020-12-22 00:00:00,?1B,,,,,,,,,,,,,,,,,,,,,Polychain
+,CoinDCX,Series A,2020-05-26 00:00:00,$2.5M,,,,,,,,,,,,,,,,,,,,,Polychain
+,CoinDCX,Series A,2020-03-23 00:00:00,$3M,,,,,,,,,,,,,,,,,,,,,Polychain
+,CoinFLEX,,2019-08-21 00:00:00,$10M,,,,,,,,,,,,,,,,,,,,,Polychain
+,CoinFLEX,Seed,2019-03-13 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,CoinFLEX,,2019-08-21 00:00:00,$10M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,CoinList,,2019-10-30 00:00:00,$10M,,,,,,,,,,,,,,,,,,,,,Polychain
+,CoinList,Series A,2018-04-05 00:00:00,$9.2M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Coinme,,2020-05-07 00:00:00,$5.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Coins.ph,Series A,2016-10-23 00:00:00,$5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Coinsuper,Series A,2018-06-26 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,CoinSwitch Kuber,Series C,2021-10-06 00:00:00,$260M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,CoinSwitch Kuber,Series A,2021-01-13 00:00:00,$15M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Commonwealth Labs,,2022-05-25 00:00:00,$20M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Commonwealth Labs,,2021-05-18 00:00:00,$3.2M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Community Gaming,Series A,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Compound,Series A,2019-11-14 00:00:00,$25M,,,,,,,,,,,,,,,,,,Paradigm,,,Polychain
+,Compound,Seed,2018-05-16 00:00:00,$8.2M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Connext,Seed,2021-03-19 00:00:00,$2.2M,,,,,,,,,,,,,,,,,,,,,Polychain
+,ConsenSys,Series C,2021-11-17 00:00:00,$200M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Cosmos Network,Seed,2019-01-01 00:00:00,—,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Cozy Finance,Seed,2020-09-03 00:00:00,$2M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,CreatorDao,,,,,,,,,,,,,,,,,,,,,,,,
+,Credora (formerly X-Margin),Series A,2021-09-13 00:00:00,$8M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Credora (formerly X-Margin),Seed,2019-08-13 00:00:00,$2.1M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Crusoe Energy Systems,Series C,2022-04-21 00:00:00,$350M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Crusoe Energy Systems,Series B,2021-04-26 00:00:00,$128M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Crusoe Energy Systems,,2019-12-06 00:00:00,$30M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Crusoe Energy Systems,Seed,2019-05-03 00:00:00,$4.5M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,CyberConnect,Seed,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Cypherium,,2018-09-01 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Dapper Labs,Series D,,,,,,,,,,,,,,,,,a16z,,,,,,
+,DeHorizon,Seed,2021-10-11 00:00:00,$8.5M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Delphia,Series A,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,DerivaDEX,Seed,2020-07-29 00:00:00,$2.7M,,,,,,,,,,,,,,,,,Dragonfly,,,,Polychain
+,Dework,Seed,2022-06-01 00:00:00,$5M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,DFINITY,,2018-08-28 00:00:00,$102M,,,,,,,,,,,,,,,,,,,,,Polychain
+,DFINITY,,2018-02-07 00:00:00,$61M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Dflow,Seed,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,DFX Finance,Seed,2021-02-24 00:00:00,$5M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Dharma Labs,Series A,2019-02-05 00:00:00,$7M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Dharma Labs,Seed,2017-08-21 00:00:00,$120K,,,,,,,,,,,,,,,,,,,,,Polychain
+,Dialect,Seed,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Diem,Seed,2020-03-20 00:00:00,—,,,,,,,,,,,,,,,,,,Paradigm,,,
+,DIRT Protocol,Seed,2018-07-11 00:00:00,$3M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,DMarket,ICO,2017-12-05 00:00:00,$19M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,doc.ai,,2017-09-07 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,DODO Exchange,,2020-10-13 00:00:00,$5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,DSCVR,Seed,2022-07-25 00:00:00,$9M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Dune Analytics,Series B,2022-02-02 00:00:00,$69.4M,,,,,,Multicoin,,,,,,,,,,,Dragonfly,,,,
+,Dune Analytics,Series A,2021-08-12 00:00:00,$8M,,,,,,Multicoin,,,,,,,,,,,Dragonfly,,,,
+,Dune Analytics,Seed,2020-09-23 00:00:00,$2M,,,,,,Multicoin,,,,,,,,,,,Dragonfly,,Digital Currency Group,,
+,Dyad,Seed,2021-05-07 00:00:00,$3M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,dYdX,Series C,2021-06-15 00:00:00,$65M,,,,,,,,,,,,,,,a16z,,,Paradigm,,,Polychain
+,dYdX,Series B,2021-01-26 00:00:00,$10M,,,,,,,,,,,,,,,,,,,,,Polychain
+,dYdX,Series A,2018-10-19 00:00:00,$10M,,,,,,,,,,,,,,,,,Dragonfly,,,,Polychain
+,dYdX,Seed,2017-12-19 00:00:00,$2M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Earn.com,Series B,2015-03-10 00:00:00,$116M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Eco,Series B,2021-07-27 00:00:00,$60M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Eco,Seed,2020-01-01 00:00:00,$8.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Element Finance,Series A,2021-10-19 00:00:00,$32M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Enigma,,2018-10-10 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Enso Finance,,2021-04-13 00:00:00,$5M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Entropy,Seed,2022-06-08 00:00:00,$25M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Entropy,Pre Seed,2021-12-28 00:00:00,$2M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,ErisX,Series B,2019-04-30 00:00:00,$20M,,,,,,,,,Pantera Capital,,,,,,,,Dragonfly,,,,
+,ErisX,Series B,2018-12-04 00:00:00,$27.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Espresso Systems,Seed,2020-11-30 00:00:00,$3.1M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Ethlas,Seed,2022-04-01 00:00:00,$6M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Euler,Venture,,,,,,,,,Jump Crypto,,,,,,,,,,,,,,
+,Euler,Series A,2021-08-25 00:00:00,$8M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Exotic Markets,ICO,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Exowatt,Seed,2024-04-22 00:00:00,20,"a16z, Atomic, Sam Altman",,,,,,,,,,,,,,a16z,Atomic,,,,,
+,FanTiger,Seed,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Faraway,Series A,2021-11-04 00:00:00,21,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Faraway,Seed,2021-08-01 00:00:00,8,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Fast Break Labs,Seed,2022-02-23 00:00:00,6,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Filament,Series A,2016-01-19 00:00:00,0.775,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Filament,Series A,2015-05-13 00:00:00,5,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Findora,,2020-12-16 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,Fireblocks,Series C,2021-03-18 00:00:00,133,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Fireblocks,Series B,2020-11-18 00:00:00,30,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Firefly Exchange,,2021-09-14 00:00:00,22.8,,,,,,,,,,,,,,,,,,,,,Polychain
+,Firefly Exchange,Seed,2021-03-13 00:00:00,6.4,,,,,,,,,,,,,,,,,,,,,Polychain
+,Firefly Exchange,Pre Seed,2021-01-05 00:00:00,0.885,,,,,,,,,,,,,,,,,,,,,Polychain
+,Flashbots,Seed,2020-01-01 00:00:00,—,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Flexa,ICO,2019-04-11 00:00:00,14.1,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Fluence Labs,Series A,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Founders Bank,,2019-10-02 00:00:00,10,,,,,,,,,,,,,,,,,,,,,Polychain
+,Fractal,Seed,2022-04-01 00:00:00,35,,,,,,Multicoin,,,,,,,,,,,,Paradigm,,,
+,Fractional,Seed,2021-08-05 00:00:00,7.9,,,,,,,,,,,,,,,,,,Paradigm,,,
+,FTX Exchange,Series C,2022-01-31 00:00:00,400,,,,,,,,,,,,,,,,,,Paradigm,,,
+,FTX Exchange,Series B,2021-07-20 00:00:00,900,,,,,,,,,,,,,,,,,,Paradigm,,,
+,FTX US,Series A,2022-01-26 00:00:00,400,,,,,,Multicoin,,,,,,,,,,,,Paradigm,,,
+,FunFair Technologies,ICO,2017-07-06 00:00:00,26,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Gauntlet,Series B,2022-03-14 00:00:00,23.8,,,,,,,,,,,,,,,,,,Paradigm,,,Polychain
+,Gauntlet,,2020-09-16 00:00:00,4.4,,,,,,,,,,,,,,,,,,Paradigm,,,Polychain
+,Gauntlet,Series A,2021-06-04 00:00:00,13.6,,,,,,,,,,,,,,,,,,,,,Polychain
+,Gauntlet,Seed,2018-10-25 00:00:00,2.9,,,,,,,,,,,,,,,,,,,,,Polychain
+,Gauntlet,Seed,2018-10-25 00:00:00,2.9,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Gemini,Series A,2021-11-18 00:00:00,423.9,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Genesis Digital Assets,Private Equity Round - Genesis Digital Assets,2021-09-21 00:00:00,431,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Genies,Series B,2021-05-03 00:00:00,65,,,,,,,,,,,,,,,,,,,,,Polychain
+,Genopets,Seed,2021-10-18 00:00:00,8.3,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Geode Finance,Seed,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Gitcoin,Venture Round - Gitcoin,2021-04-14 00:00:00,$11.3M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Gliph,Seed Round - Gliph,2013-12-18 00:00:00,$340K,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,GlobeDX,Seed Round - GlobeDX,2021-04-28 00:00:00,$18M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,GlobeDX,Seed Round - GlobeDX,2020-11-20 00:00:00,$3M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Gnosis,Venture,,,,,,,,,,,,,,,,,,,,,Digital Currency Group,,
+,Greenwood Finance,Seed Round,2021-04-01 00:00:00,$2M,,,,,,,,,,,,,,,,,,,,,Polychain
+,GuildFi,Seed Round,2021-11-10 00:00:00,$6M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Haja Networks,,2018-06-12 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,Halborn,Series A,,,,,,,,,,,,,,,,,,,,,Digital Currency Group,,
+,Hang,Series A,2022-07-14 00:00:00,$16M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Harbor,,2018-04-17 00:00:00,$28M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Hashflow,Series A,,,,,,,,,Jump Crypto,,,,,,,,,,,,,,
+,Hashflow,Series A,2022-07-21 00:00:00,25,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Hashflow,Seed,2021-04-29 00:00:00,3.2,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Hawku,Seed,2021-10-28 00:00:00,4,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Hedge,Seed,2022-04-19 00:00:00,3.7,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Hedgehog,Seed,2021-08-24 00:00:00,1.6,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Helium,Series D,2022-02-19 00:00:00,200,,,,,,Multicoin,,,Pantera Capital,Khosla Ventures,GV,Ribbit Capital,Tiger,FTX Ventures,a16z,,,,,,
+,Hivemapper,Series A,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Hologram Labs,Seed,2022-07-14 00:00:00,6.5,,,,,,,,,,,,,,,,,,,,,Polychain
+,Horizon Blockchain Games,Seed,2020-03-10 00:00:00,5,,,,,,,,,,,,,,,,,,,,,Polychain
+,Horizon Blockchain Games,Seed,2019-07-17 00:00:00,3.8,,,,,,,,,,,,,,,,,,,,,Polychain
+,Hyperspace,Seed,2022-02-15 00:00:00,4.5,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Ignite,Series A,2019-03-14 00:00:00,9,,,,,,,,,,,,,,,,,,Paradigm,,,
+,InfiniGods,Seed,2022-05-06 00:00:00,9,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,InfStones,Series B,2021-12-06 00:00:00,33,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Injective,,2021-04-20 00:00:00,10,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Injective,Seed,2020-07-29 00:00:00,2.6,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Instadapp,Seed,2019-10-01 00:00:00,2.4,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Jambo,Series A,2022-05-10 00:00:00,30,,,,,,,,,Pantera Capital,,,,,,,,,Paradigm,,,
+,Keep,,2018-04-01 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,KEEP network,ICO,2020-04-03 00:00:00,7.7,,,,,,,,,,,,,,,,,,Paradigm,,,
+,KeeperDAO,Seed,2020-07-31 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,Kik,ICO,2017-08-29 00:00:00,100,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,Kikitrade,Seed,2021-04-09 00:00:00,8,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Kiki World,Series A,2024-04-09 00:00:00,7,"a16z, Estee Lauder, Double Down, 2 Punks, Advancit, G money, Orange DAO, Red DAO",,,,,,,,,,,,,,a16z,,,,,,
+,Kiosk,Seed,2024-05-02 00:00:00,10,Electric CapitalVariantUnion Square Ventures,Electric Capital,Electric Capital,Variant,Union Square Ventures,,,,,,,,,,a16z,,,,,,
+,Koinex,Seed,2017-12-24 00:00:00,—,Pantera Capital,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Korbit,Series A,2015-07-25 00:00:00,3,Pantera Capital,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Korbit,Series A,2014-08-25 00:00:00,3,Pantera Capital,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Kresko Labs,Seed,2021-08-06 00:00:00,2.3,,,,,,,,,,,,,,,,,,,,,Polychain
+,KuCoin,Series B,,,Jump Crypto,,,,,,Jump Crypto,,,,,,,,,,,,,,
+,KurateDAO,Seed,2022-03-08 00:00:00,6.9,,,,,,,,,,,,,,,,,,,,,Polychain
+,LaunchKey,,2014-11-24 00:00:00,3.8,Pantera Capital,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Lava Labs,Series A,2022-03-17 00:00:00,10,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Lava Network,Seed,,,Jump Crypto,,,,,,Jump Crypto,,,,,,,,,,,,,,
+,LayerZero,Series A,,,Multicoin,,,,,Multicoin,,,,,,,,,a16z,,,,,,
+,Leap Wallet,ICO,2022-04-05 00:00:00,3.2,Pantera Capital,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Li.Finance,,2022-07-11 00:00:00,5.5,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Lido,ICO,2021-05-05 00:00:00,51,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Lightspark,Seed,2022-05-12 00:00:00,—,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Linen App,Seed,2018-09-01 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,LiquiFi,Seed,2022-07-13 00:00:00,5,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Liquity,Series A,2021-03-29 00:00:00,6,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Liquity,Seed,2020-09-24 00:00:00,2.4,,,,,,,,,,,,,,,,,,,,,Polychain
+,Lithium Finance,Seed,2021-06-01 00:00:00,5,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,LoanScan,Seed,2018-09-25 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,LootRush,Seed,2022-05-05 00:00:00,12,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Lumina,Seed,2018-10-02 00:00:00,4,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,MachineFi Lab,Seed,,,,,,,,,Jump Crypto,,,,,,,,,,,,,,
+,Mad Realities,Seed,2022-04-25 00:00:00,6,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Maecenas,,2017-09-01 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Magic Eden,Series B,2022-06-21 00:00:00,130,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Magic Eden,Series A,2022-03-14 00:00:00,27,,,,,,,,,,,,,,,,,,Paradigm,,,
+,MakerDAO,,2019-12-19 00:00:00,27.5,,,,,,,,,,,,,,,,,,Paradigm,,,
+,MakerDAO,,2017-12-15 00:00:00,12,,,,,,,,,,,,,,,,,,,,,Polychain
+,MakerDAO,,2019-12-19 00:00:00,27.5,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,MakersPlace,Series A,2021-08-04 00:00:00,30,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Mangata Finance,,2022-04-28 00:00:00,4.2,,,,,,,,,,,,,,,,,,,,,Polychain
+,Mangata Finance,Seed,2021-03-02 00:00:00,1.4,,,,,,,,,,,,,,,,,,,,,Polychain
+,Manta Network,Seed,2021-02-02 00:00:00,1.1,,,,,,,,,,,,,,,,,,,,,Polychain
+,Maple Finance,,2021-03-18 00:00:00,1.4,,,,,,,,,,,,,,,,,,,,,Polychain
+,Matrixport,,2019-12-01 00:00:00,—,,,,,,,,,,,,,,,,,,Paradigm,,,Polychain
+,Matrixport,Series C,2021-08-02 00:00:00,100,,,,,,,,,,,,,,,,,,,,,Polychain
+,Matrixport,Series C,2021-08-02 00:00:00,100,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Matrixport,,2019-12-01 00:00:00,—,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Matter Labs,Seed,2019-09-23 00:00:00,$2M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Maverick Protocol,,2022-02-15 00:00:00,$8M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Merico,Series A,2021-10-26 00:00:00,$12.4M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Merico,Series A,2020-09-18 00:00:00,$4.9M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Merico,Seed,2020-05-14 00:00:00,$3M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Merico,Pre Seed,2018-10-15 00:00:00,$1.1M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Merkle Manufactory,Seed,,,,,,,,Multicoin,,,,,,,,,a16z,,,,,,
+,Metaflex Studios,ICO,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,MetaLend,Seed,2022-04-21 00:00:00,$5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,MetaStreet,Seed,2022-02-08 00:00:00,$3M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Metatheory,Series A,2022-05-16 00:00:00,$24M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Metatheory,Series A,2022-05-16 00:00:00,$24M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Metaverse Game Studios,Venture Round - Metaverse Game Studios,2022-03-14 00:00:00,$10M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Meter.io,Seed,2019-05-01 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Mina,ICO,2022-03-17 00:00:00,92,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Mina,Seed,2019-04-05 00:00:00,15,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Mithril,ICO,2018-01-17 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,MoHash,Seed,,,,,,,,,Jump Crypto,,,,,,,,,,,,,,
+,MoonPay,Series A,2021-11-22 00:00:00,555,,,,,,,,,,,,,,,,,,Paradigm,,,
+,mrgn labs,S,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,mrgn labs,Seed,2022-02-23 00:00:00,3,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,MyCrypto,Series A,2018-08-30 00:00:00,4,,,,,,,,,,,,,,,,,,,,,Polychain
+,Namebase,Seed,2018-11-05 00:00:00,—,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Nand Capital,Seed,2019-03-15 00:00:00,—,,,,,,,,,,,,,,,,,,Paradigm,,,
+,NEAR,ICO,2020-05-04 00:00:00,21.6,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,NEAR,,2022-01-13 00:00:00,150,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,NEAR Protocol,Series A,2019-07-10 00:00:00,12.1,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,NEAR Protocol,ICO,2022-01-13 00:00:00,150,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,NEAR Protocol,,2021-01-19 00:00:00,—,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,NEBRA Labs,Seed,2024-04-17 00:00:00,4.5,"Nascent, Bankless, Public Works, Dialectic, Daedalus Angel Syndicate, a16z",,,,,,,,,,,,,,a16z,,,,,,
+,Neon Media,,2021-11-12 00:00:00,10.5,,,,,,,,,,,,,,,,,,,,,Polychain
+,Nervos Network,Series A,2018-07-18 00:00:00,28,,,,,,,,,,,,,,,,,,,,,Polychain
+,Nervos Network,,2019-12-24 00:00:00,—,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Nitra,Seed,2022-01-10 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Nomad,,2022-07-28 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,Nomad,Seed,2022-04-12 00:00:00,22.4,,,,,,,,,,,,,,,,,,,,,Polychain
+,Notional Finance,Series A,2021-04-29 00:00:00,10,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Notional Finance,Seed,2020-10-26 00:00:00,1.3,,,,,,,,,,,,,,,,,,,,,Polychain
+,NuCypher,ICO,2019-10-07 00:00:00,10.7,,,,,,,,,,,,,,,,,,,,,Polychain
+,NuCypher,,2018-04-15 00:00:00,10.7,,,,,,,,,,,,,,,,,,,,,Polychain
+,NuCypher,,2017-12-12 00:00:00,4.4,,,,,,,,,,,,,,,,,,,,,Polychain
+,Numerai,,2019-03-21 00:00:00,11,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Nuo,Seed,2020-04-04 00:00:00,3,,,,,,,,,,,,,,,,,,,,,Polychain
+,Nuo,Seed,2020-04-04 00:00:00,3,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Nym Technologies,Series A,2021-07-16 00:00:00,6,,,,,,,,,,,,,,,a16z,,,,Digital Currency Group,,Polychain
+,O(1) Labs,Series A,2019-04-05 00:00:00,15,,,,,,,,,,,,,,,,,,Paradigm,,,Polychain
+,O(1) Labs,Seed,2018-02-01 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,Oasis Labs,Series A,2018-07-09 00:00:00,45,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,Oasys,ICO,,,,,,,,,Jump Crypto,,,,,,,,,,,,,,
+,ODX Pte. Ltd,ICO,2018-07-26 00:00:00,60,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Offchain Labs,Series B,2021-08-31 00:00:00,100,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,Offchain Labs,Seed,2019-04-03 00:00:00,3.7,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,OnChain Studios,Series A,,,,,,,,,,,,,,,,,a16z,,,,,,
+,Ondo Finance,Series A,2022-04-27 00:00:00,20,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Ondo Finance,Seed,2021-08-17 00:00:00,4,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,OnJuno,Seed,2019-10-09 00:00:00,3,,,,,,,,,,,,,,,,,,,,,Polychain
+,OpenSea,Series B,,,,,,,,,,,,,,,,,a16z,,,,,,
+,OpenSea,Series C,2022-01-05 00:00:00,300,,,,,,,,,,,,,,,,,,Paradigm,,,
+,OpenToken,,2019-12-01 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,OpenTrade,Seed,2024-04-09 00:00:00,3.2,"Ryze Labs, Plassa Capital, Draper Dragon, CMCC Global, a16z Crypto",,,,,,,,,,,,,,a16z,,,,,,
+,Optic,Seed,2022-07-20 00:00:00,11,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Optimism,Series B,2022-03-17 00:00:00,150,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Optimism,Seed,2020-01-15 00:00:00,3.5,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Opyn,Series A,2021-02-03 00:00:00,6.7,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Opyn,Series A,2021-02-03 00:00:00,6.7,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Opyn,Seed,2020-06-22 00:00:00,2.2,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Orchid Labs,,2018-04-20 00:00:00,36.1,,,,,,,,,,,,,,,,,,,,,Polychain
+,Orchid Labs,Seed,2017-10-26 00:00:00,4.7,,,,,,,,,,,,,,,,,,,,,Polychain
+,Orderly Network,Series A,,,,,,,,,Jump Crypto,,,,,,,,,,,,,,
+,Orderly Network,Series A,2022-06-09 00:00:00,20,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Orderly Network,Series A,2022-06-09 00:00:00,20,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Origin Protocol,Seed,2017-12-11 00:00:00,3,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Origo,,2018-06-10 00:00:00,30,,,,,,,,,,,,,,,,,,,,,Polychain
+,ORIGYN Foundation,,2021-11-23 00:00:00,20,,,,,,,,,,,,,,,,,,,,,Polychain
+,Osmosis Foundation,ICO,2021-10-27 00:00:00,21,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Overlay,Seed,2021-03-18 00:00:00,2.2,,,,,,,,,,,,,,,,,,,,,Polychain
+,OXIO,Series B,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Paradigm,Seed,2018-10-16 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,Paradigm,Series A,2021-12-09 00:00:00,$35M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Paradigm,Seed,2020-07-01 00:00:00,—,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Paradigm,Seed,2018-10-16 00:00:00,—,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,ParaFi Capital,,2018-11-15 00:00:00,—,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Parallel,,2021-10-21 00:00:00,$50M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Parallel Finance,Seed,2021-06-14 00:00:00,$2M,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,Parallel Finance,Series A,2021-08-30 00:00:00,$22M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Paras,Seed,2021-11-09 00:00:00,$5M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Parcl,,2022-05-17 00:00:00,$7.5M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Parcl,Seed,2021-12-02 00:00:00,$4M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Parsec Finance,Seed,2021-01-29 00:00:00,$1.2M,,,,,,,,,,,,,,,,,,,,,Polychain
+,PartyDAO,,,,,,,,,,,,,,,,,,a16z,,,,,,
+,Passes,Seed,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Phantom,Series A,,,,,,,,,,,,,,,,,a16z,,,,,,
+,Phantom,Series B,2022-01-31 00:00:00,$109M,,,,,,,,,,,,,,,a16z,,,Paradigm,,,
+,Pinoy Teleserye,Seed,2021-09-02 00:00:00,$4M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Pintu,Series B,2022-06-06 00:00:00,IDR1.6T,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Pintu,Series A,2021-08-09 00:00:00,$35M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Pintu,Series A,2021-05-25 00:00:00,$6M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,PleasrDAO,,,,,,,,,,,,,,,,,,a16z,,,,,,
+,Polkadot,ICO,2017-10-15 00:00:00,$250M,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,Polychain,Seed,2016-12-11 00:00:00,$10M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Polygon,,2022-02-07 00:00:00,$450M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Polymarket,Seed,2020-10-19 00:00:00,$4M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Ponto,Seed,2022-03-17 00:00:00,$20M,,,,,,,,,,,,,,,,,,,,,Polychain
+,PoolTogether,Series A,2021-05-20 00:00:00,$6M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,PORTALS,Seed,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Potion Labs,ICO,2022-02-14 00:00:00,$12M,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,PowerTrade,Seed,2020-09-17 00:00:00,$4.7M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Project Galaxy,Series A,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Prysm,Seed,2021-09-21 00:00:00,$3M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Prysm,Pre Seed,2020-07-31 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,PsyOptions,Seed,2022-01-13 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Quadrata,Seed,2022-07-12 00:00:00,$7.5M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Quasar Labs,Seed,2022-07-28 00:00:00,$6.1M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Raiden Network,ICO,2017-10-26 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,Rain,Series B,2022-01-18 00:00:00,$110M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Rangers Protocol,,2021-06-14 00:00:00,$2.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Rangers Protocol,Seed,2021-05-10 00:00:00,$1.2M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Rarify,Series A,2022-03-03 00:00:00,$10M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Ref Finance,ICO,2022-02-17 00:00:00,$4.8M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Reflexer Labs,,2021-02-11 00:00:00,$4.1M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Reflexer Labs,Seed,2020-08-05 00:00:00,$1.7M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Ren,ICO,2018-02-22 00:00:00,$34M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Ren Labs,Seed,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Ribbon Finance,,2022-03-22 00:00:00,$8.8M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Rift Finance,,2022-02-08 00:00:00,$18M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Ripio,Seed,2015-05-26 00:00:00,$1.2M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Ripio,Seed,2014-01-29 00:00:00,$600K,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Ripple,Seed,2013-05-14 00:00:00,$1.4M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Risk Harbor,Seed,2021-04-28 00:00:00,$3.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,River Financial,Series A,2021-03-11 00:00:00,$12M,,,,,,,,,,,,,,,,,,,,,Polychain
+,River Financial,Seed,2020-06-17 00:00:00,$5.7M,,,,,,,,,,,,,,,,,,,,,Polychain
+,RNDR Token,ICO,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Royal,Series A,2021-11-22 00:00:00,$55M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Royal,Seed,2021-08-26 00:00:00,$16M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,RSS3,,2021-12-22 00:00:00,—,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Sablier,Seed,2024-03-22 00:00:00,4.5,"a16z, WAGMI Ventures, GD1, Founderheads, Fenbushi, DCV Capital, Cyfrin, A.Capital",,,,,,,,,,,,,,a16z,,,,,,
+,Saddle Finance,Series A,2021-11-11 00:00:00,7.5,,,,,,,,,,,,,,,,,,,,,Polychain
+,Saddle Finance,Seed,2021-01-19 00:00:00,4.3,,,,,,,,,,,,,,,,,,,,,Polychain
+,Saddle Finance,Seed,2021-01-19 00:00:00,4.3,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Satori,Seed,2022-05-12 00:00:00,10,,,,,,,,,,,,,,,,,,,,,Polychain
+,Scroll.io,Series A,2022-04-21 00:00:00,30,,,,,,,,,,,,,,,,,,,,,Polychain
+,seedclub,Series A,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Sense Finance,Seed,2021-08-03 00:00:00,5.2,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,ShapeShift,Series A,2017-03-29 00:00:00,10.4,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Shipyard Software,Seed,2021-07-17 00:00:00,,,,,,,,,,,,,,,,,,,,,,Polychain
+,Showtime,Seed,2021-05-06 00:00:00,7.6,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Showtime,Seed,2021-05-06 00:00:00,7.6,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Showtime,Pre Seed,2021-02-15 00:00:00,,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Sia,Seed,2020-09-22 00:00:00,3,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Sia,Seed,2020-09-22 00:00:00,3,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Sipher,Seed,2021-10-26 00:00:00,6.8,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Skolem Labs,Series A,,,,,,,,,Jump Crypto,,,,,,,,,,,,,,
+,Skolem Labs,Series A,2022-06-08 00:00:00,20,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Skolem Labs,,2021-07-14 00:00:00,,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Sky Mavis,Series C,2022-04-06 00:00:00,150,,,,,,,,,,,,,,,a16z,,,Paradigm,,,
+,Sky Mavis,Series B,2021-10-05 00:00:00,152,,,,,,,,,,,,,,,a16z,,,Paradigm,,,
+,Skynet Labs,Seed,2020-09-22 00:00:00,3,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Skynet Labs,Seed,2020-09-22 00:00:00,3,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Skynet Labs,Seed,2019-07-10 00:00:00,3.5,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Solana,Series A,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Solana,ICO,2021-06-09 00:00:00,314,,,,,,Multicoin,,,,,,,,,,,,,,,Polychain
+,Solend,Seed,2021-10-01 00:00:00,6.5,,,,,,,,,,,,,,,,,,,,,Polychain
+,Solscan,Seed,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Sommelier,Series A,2021-10-20 00:00:00,$23M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Space and Time,Seed,,,,,,,,,,,,,,,,,,,,,Digital Currency Group,,
+,Space Runners,Seed,2022-03-07 00:00:00,$10M,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,Spacemesh,Series A,2018-09-05 00:00:00,$15M,,,,,,,,,,,,,,,,,,Paradigm,,,Polychain
+,SparkSwap,Series A,2019-04-08 00:00:00,$3.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Spectral,,2021-11-09 00:00:00,$6.8M,,,,,,,,,,,,,,,,,,,,,Polychain
+,SPICYEST,Pre Seed,2022-02-20 00:00:00,$2.1M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Squads,,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Stablehouse,Seed,2020-10-29 00:00:00,$2.2M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Stader Labs,Seed,2021-10-07 00:00:00,$4M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Staked us,Seed,2019-01-31 00:00:00,$4.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,StakerDAO,Series A,2020-02-28 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,StakerDAO,Seed,2019-08-31 00:00:00,—,,,,,,,,,,,,,,,,,,,,,Polychain
+,StarkWare Industries,Seed,2018-01-31 00:00:00,$6M,,,,,,,,,Pantera Capital,,,,,,,,,,,,Polychain
+,StarkWare Industries,Series B,2021-03-24 00:00:00,$75M,,,,,,,,,Pantera Capital,,,,,,,,,Paradigm,,,
+,StarkWare Industries,Series A,2018-10-28 00:00:00,$30M,,,,,,,,,Pantera Capital,,,,,,,,,Paradigm,,,
+,Stream Token,ICO,2017-10-26 00:00:00,$5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Stride Labs,Seed,2022-06-23 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Structure,Seed,2021-12-01 00:00:00,$20M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Subspace Labs,,2022-03-01 00:00:00,$32.9M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Summoners Arena,,2022-02-11 00:00:00,$3M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Swim,Seed,2022-03-09 00:00:00,$4M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,SynFutures,Series A,2021-06-16 00:00:00,$14M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,SynFutures,Series A,2021-06-16 00:00:00,$14M,,,,,,,,,,,,,,,,,,,,,Polychain
+,SynFutures,Seed,2021-01-01 00:00:00,$1.4M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Synthetic Minds,Seed,2018-10-22 00:00:00,$5.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Synthetix,,2020-12-15 00:00:00,$12M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,SZNS,Seed,2021-09-09 00:00:00,$10M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,t3rn,Seed,2021-06-16 00:00:00,$1.4M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Tagomi,,2019-03-04 00:00:00,$12M,,,,,,,,,Pantera Capital,,,,,,,,,Paradigm,,,
+,Tagomi,,2019-03-04 00:00:00,$12M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Taker Protocol,Seed,2021-09-20 00:00:00,$3M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Tari Labs,Seed,2018-02-20 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,TaxBit,Series B,2021-08-12 00:00:00,$130M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,TaxBit,Series A,2021-01-07 00:00:00,$100M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,TaxBit,Seed,2020-01-06 00:00:00,$5M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Terra,,2021-01-26 00:00:00,$25M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Terra,Seed,2018-08-29 00:00:00,$32M,,,,,,,,,,,,,,,,,,,,,Polychain
+,The Block,Seed,2019-04-30 00:00:00,$1.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,The Wildcard Alliance,Series A,2022-06-14 00:00:00,$46M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Themelio Labs,Seed,2020-12-01 00:00:00,$1.5M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Thesis,Series A,2021-07-22 00:00:00,$21M,,,,,,,,,,,,,,,,,,Paradigm,,,Polychain
+,ThunderCore,Series A,2018-03-01 00:00:00,$37.1M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Tlon,,2019-07-24 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Token Daily,Series A,2018-05-01 00:00:00,$9.2M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Trade Ecology Token,,2019-04-11 00:00:00,$28M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Transparent Financial Systems,Series A,2020-02-05 00:00:00,$14M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,TruStory,Seed,2018-05-23 00:00:00,$3M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Umee,Seed,2021-06-15 00:00:00,$6.3M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Unbound Finance,Seed,2021-06-10 00:00:00,$5.8M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,UnikoinGold,ICO,2017-09-24 00:00:00,$15M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Unikrn,ICO,2017-10-23 00:00:00,$31.4M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Uniswap,Series A,2020-08-07 00:00:00,$11M,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Unstoppable Domains,Series A,2022-07-27 00:00:00,$65M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Upshot,Series A,2022-03-22 00:00:00,$22M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Urkel,Seed,2019-10-01 00:00:00,$1M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Valora,Series A - Valora,2021-07-21 00:00:00,$20M,,,,,,,,,,,,,,,,,,,,,Polychain
+,VALR,Series B - VALR,2022-02-28 00:00:00,$50M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Vauld,Series A - Vauld,2021-07-29 00:00:00,$25M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Vauld,Seed,2020-12-30 00:00:00,$2M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Veem,Venture Round - Veem,2018-09-26 00:00:00,$25M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Veem,Series B - Veem,2018-08-14 00:00:00,—,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Veem,Series A - Veem,2015-11-17 00:00:00,$12.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Veem,Seed,2015-04-29 00:00:00,$1.5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Vega Protocol,Seed,2019-10-02 00:00:00,$5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Veil,Seed,2019-01-08 00:00:00,—,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Vibra,Seed,2021-12-17 00:00:00,$6M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Virtue Poker,Seed,2021-04-12 00:00:00,$5M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Web3Auth,Series A,,,,,,,,Multicoin,,,,,,,,,,,,,,,
+,Wintermute Trading,Series B,2021-01-20 00:00:00,$20M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,WOO Network,Seed,2020-09-15 00:00:00,$10M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Worldcoin,Venture,,,,,,,,Multicoin,,,,,,,,,a16z,,,,Digital Currency Group,,
+,Wyre,Series B,2020-08-03 00:00:00,$3M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Wyre,Series B,2018-12-12 00:00:00,$8M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Xapo,Series A,2014-03-13 00:00:00,$20M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,XLD Finance,Seed,,,,,,,,,,,,,,,,,,,,,Digital Currency Group,,
+,XLD Finance,Seed,2022-07-19 00:00:00,$13M,,,,,,,,,,,,,,,,,Dragonfly,,,,
+,Yellow Card,Series A,2021-09-26 00:00:00,$15M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Yellow Card,Seed,2020-08-27 00:00:00,$1.5M,,,,,,,,,,,,,,,,,,,,,Polychain
+,Yield Protocol,Seed,2020-05-09 00:00:00,—,,,,,,,,,,,,,,,,,,Paradigm,,,
+,Zcash,Seed,2016-01-20 00:00:00,$1M,,,,,,,,,Pantera Capital,,,,,,,,,,,,
+,Zora,,2021-03-19 00:00:00,$8M,,,,,,,,,,,,,,,,,,Paradigm,,,

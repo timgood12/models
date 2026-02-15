@@ -1,0 +1,32 @@
+Main,Unnamed: 1,Unnamed: 2
+,Brand Name,Iressa
+,Generic Name,gefitinib
+,Mechanism,EGFR kinase inhibitor
+,Subsets,"Never-smokers, Asians and adenocarcinoma patients have better survival with EGFr inhibitors than smokers, non-Asians and squamous cell patients."
+,,Women might have higher response rates than men.
+,,"17% of patients have EGFR mutations (Spain, NEJM 2009)."
+,Competition,"Tarceva, (OSIP/Roche)."
+,IP,5457105 describes compound and expires in 2013. 5770599 describes compound and expires in 2017.
+,Papers,Gefitinib or Carboplatin-Paclitael in Pulmonary Adenocarcinoma. Mok et al. NEJM 361;10:947-957.
+,Clinical Trials,
+,,"Phase III ""IPASS"" Gefitinib vs Carbo-Tax n=1217 in 1L NSCLC Asian non-smoker/light-smoker. ESMO 2008 presentation."
+,,"12-month PFS of 24.9% vs 6.7% in ITT, HR=0.74. median PFS similar: 5.7m vs. 5.8m. HR for OS =0.91 (18.6m vs 17.3m)."
+,,n=261 were EGFR+ and HR =0.48. (Only 437 bio markers could be analyzed).
+,,n=176 were EGFR- and HR=2.85.
+,,
+,,Phase III INTEREST - Iressa vs Taxotere in 2L NSCLC - Lancet 2008 - 2004-2006 recruitment.
+,,"Met non-inferiority with 7.6mo vs 8.0mo, HR=1.02 OS. Missed superiority in high-copy EGFR with 8.4mo vs 7.5mo."
+,,n=1466 all receiving 1L platinum. Study was open-label. Co-primary endpoints of non-inferior MOS and superior MOS for Iressa in high-copy EGFr status.
+,,
+,,Phase III INVITE 1L NSCLC patients unsuited for chemotherapy
+,,
+,,Phase III ISEL - Iressa vs placebo
+,,Fails superiority primary endpoint. 5.6 vs 5.1mo. P=0.09. 90% refractory to chemo.
+,,
+,,Phase II SIGN
+,,
+,,Phase III V-15-32 Japan n=489
+,,
+,,
+,,Phase III BR.21 - Tarceva vs placebo
+,,"6.7mo vs 4.7mo, SS MOS improvement."

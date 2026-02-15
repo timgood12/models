@@ -1,0 +1,13 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,Brand,Generic,MOA,Indication,Approved
+,"Incivek, aka Incivo, aka Telavic",telaprevir,Protease Inhibitor,HCV,2011-05-23 00:00:00
+,"Orkambi, fka VX-809",lumacaftor,CFTR corrector,Cystic Fibrosis,2015-07-02 00:00:00
+,"Symdeko, Trikafta, VX-661",tezacaftor,,Cystic Fibrosis,
+,Trikafta,elexacaftor,,Cystic Fibrosis,
+,,,,,
+,,,,,Phase
+,ALS-2158,,NS5B Polymerase Inhibitor,HCV,I
+,ALS-2200,,NS5B Polymerase Inhibitor,HCV,I
+,BVD-523,ulixertinib,ERK,Oncology,I
+,VX-150,,Nav1.8,Pain,Discontinued?
+,VX-222,,Non-Nucleoside Polymerase Inhibitor,HCV,II

@@ -1,0 +1,61 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2
+,3SAT,"3-Satisfiability, decision problem in complexity"
+,Algorithmic Qubit,"A metric describing the number of “useful” qubits in a system, considering noise, connectivity limitations, and other sources of error."
+,basis state,|0> or |1>
+,BB84,"Quantum key distribution protocol, improved from Wiesner's ""quantum money"" paper."
+,Bloch sphere,three-dimensional representation of a qubit
+,BQP,Bounded-error quantum polynomial time: problems solvable in polynomial time on a quantum computer with bounded error. P contains BQP which contains PSPACE. Most feel NP-complete does not contain BQP and vice versa (BQP is not a subset of NP-complete). Some evidence suggests NP-complete problems are too hard even for quantum computers.
+,busy beaver,example of a combinatorial problem
+,Clifford Gates,
+,CNF,Conjunctive Normal Forms (CNF)
+,Coherence Time,"A measurement of the “lifetime” of a qubit, coherence time measures how long a qubit can maintain coherent phase, which allows it to successfully retain quantum information and behave in the ways necessary for it to be part of a useful computation. "
+,Copenhagen interpretation,Bohr theory of QM
+,decision problem,
+,elliptic curve cryptography,uses discrete log problem over finite fields to create a computationally difficult one-way function
+,Entanglement,"A property of quantum mechanics where two particles, even when physically separated, behave in ways conditionally dependent on each other."
+,Error-Corrected Qubit,Groups of physical qubits that are logically combined using techniques called error correction encoding with the goal of having them act together as one much higher-quality qubit for computational purposes.
+,Gate Fidelity/Error Rate,A measure of how much noise (or error) is introduced in each operation during a quantum algorithm.
+,Grover's Algorithm,quadratic speedup over search
+,Hamiltonian,
+,Harrow-Hassidim-Lloyd (HHL),"Accelerates computation of specific matrices (sparse, Hermitian)"
+,Hermitian matrix,"a self-adjoint matrix, or, a square matrix which is equal to its own conjugate transpose. A = A*, where A* is the conjugate transpose, obtained by taking transpose of A and replacing each entry with its complex conjugate. Off-diagonals must be conjugates"
+,integer factorization problem,in NP but not NP-complete
+,Ion Trap,"An apparatus that holds ions in place, ready for computation, in a trapped-ion quantum computer."
+,Measurement,The process at the end of a quantum computation where the exponentially large computational space available during computation collapses down to a binary string in order to produce readable results.
+,NISQ,"noisy, intermediate-scale quantum computing"
+,NP,"Non-deterministic polynomial time: the class of problems whose solution can be verified in polynomial time. Example: factoring, SAT."
+,NP-complete,"A problem is NP-complete if it is both in NP and NP-hard. Factoring is not NP-complete. Examples: 3SAT, TSP decision problem, Subset sum, Vertex cover."
+,NP-hard,The class of problems where every NP problem can be reduced to it in polynomial time. The halting problem is NP-hard but not in NP! (it is undecidable). These problems do not have to be verifiable in polynomial time.
+,one-way function,NP-hard
+,oracle,"""black box"" providing computational resources without revealing inner workings"
+,P,Class of problems solvable in polynomial time on a classical computer. Generally thought (but not proven) that P /= NP.
+,Photonic Interconnect,"A connection between two qubits using photons, typically via a fiber optic cable. A photonic interconnect is used to remotely connect two qubits."
+,Physical Qubit,The hardware implementation of a qubit in a quantum computer.
+,projection operator,mathematical concept of measurement
+,|ψ⟩,"ket, or psi - the state vector which presents the state of a quantum computer. A complex linear superposition of all bit values (0, 1), their amplitudes, which must be normalized (sum to 1 after squaring operation)."
+,PSPACE,
+,Qasm,quantum computing programming library
+,QFT,quantum Fourier transform
+,Qiskit,quantum computing programming library for Python
+,RSA,Rivest-Shamir-Adelman
+,SHA,hashing algorithm
+,Shor's Algorithm,factors large semiprimes in polynomial time
+,Superconducting Qubit,A qubit implementation that uses specialized silicon-fabricated chips at ultracold temperatures.
+,superposition,complex coefficients of the basis states describes superposition state of system
+,Synthetic (Fabricated) Qubit,"A qubit that uses an engineered or “manufactured” quantum system, rather than a naturally occurring one. Examples of synthetic (fabricated) qubits include superconducting transmon qubits and semiconductor quantum dot qubits."
+,Trapped Ion Qubit,A qubit implementation using charged atomic particles (ions) suspended in vacuum and manipulated with lasers.
+,TSP,"Travelling salesman problem. Not in NP because it is not a decision problem, but it is NP-hard."
+,U,the unitary operator which describes the evolution of the state vector with respect to time. The linear transformation must be bijective and length-preserving.
+,unitary,"matrix operation where inverse * matrix = identity, preserves probability (all probabilities sum to 1)."
+,wave function,
+,,
+,,Atoms
+,,ions vs. neutral
+,,
+,,Photons
+,,
+,,
+,,Spin in semiconductors
+,,
+,,
+,,Superconducting

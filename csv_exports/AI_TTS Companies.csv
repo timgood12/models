@@ -1,0 +1,70 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,2013,2024-02-12 00:00:00,Unnamed: 14,Unnamed: 15
+,,Inception,Technology,Site,People,Cost/month,Credits,Price/hour,Price/1k,Financing,Notes,SW 28day,SW 28day,Ping: My name is dog.,First Paragraph Moby Dick
+,ElevenLabs,2022,Tortoise,www.elevenlabs.io,"Piotr Dabkowski, Mati Staniszewski",330,40 hours /2m chars,8.25,0.18,119m,,11.71,17.22,845,14106.5
+,Speechify,2017,Unclear,www.speechify.com,"Cliff Weitzman, Tyler Weitzman",384,100,3.84,,,"Has celebrities? Accepts SSML, Spanish, German. Impossible to sign up.",5.979,6.137,,
+,MURF.ai,2020,,www.murf.ai,"Ankur Edkie, Divyanshu Pandey, Sneha Roy",39,4 hours,9.75,0.19,11.5m,,2.595,2.018,,
+,Play.ht,2022,Tortoise,www.play.ht,"Hammad Syed, Mahmoud Felfel",999,225 hours,4.44,0.1,1.0m,,2.012,1.927,6544.75,66042.5
+,Lovo,,,www.lovo.ai,,149,20 hours,7.45,0.075,,very slow.,0.960937,0.792118,12520,222955
+,Resemble AI,,,www.resemble.ai,,0.006,1 second,21.599999999999998,0.0891,,,0.918881,0.490711,1059,5612
+,WellSaid Labs,2018,Tacotron and pushed it even further,www.wellsaidlabs.com,"Matt Hocking, Michael Petrochuk, Martin Ramirez",99,"750*5000, 3.75m",1.32,cringe,10m,"Q322 30k hours of voice content, Martin Ramirez. Allen AI spinout. Runs on a CPU!? ""Using 20 hours of data per person""",0.294415,0.345982,,
+,Voiceovermaker,,WaveNet,www.voiceovermaker.io,,36,"300k chars, 6 hours",6,0.11333333333333333,,,0.065216,0.320533,,
+,Voiser,,,www.voiser.net,,162,1m chars (20 hours),8.1,0.18,,,0.363202,0.181765,,
+,Coqui,2020,Tortoise,www.coqui.ai,"Eren Golge, Reuben Morais",175,"180k seconds; 50 hours low quality, 25 hours high quality",7,0.14,3.3m,,0.267867,0.12159,RIP,RIP
+,Synthesys,,,www.synthesys.io,,119,30 hours,3.966666666666667,,,,0.119672,0.108222,,
+,DeepDub,2019,,www.deepdub.ai,,199,4 hours,49.75,,20m,,0.032071,0.092105,,
+,Replica Studios,,,www.replicastudios.com,,36,4 hours,9,,,Australia,0.130269,0.090467,,
+,Neets.ai,2023,Multiple,www.neets.ai,,,,,0.001,2.5m,,,0.064905,150.75,867
+,,,,,,,,,,,,,,,
+,Unrealspeech,2022,,www.unrealspeech.com,Eric,4999,"625m chars, 12.5k hours",0.4,0.0079,,"No cloning, a little robotic, but great.",0.016398,0.034521,,
+,Rime,2021,Unclear,www.rime.ai,Lily Clifford,75,1m chars (20 hours),3.75,0.075,3.1m,,0.005174,0.005174,370,2822
+,LMNT,,,www.lmnt.com,,7,"30k chars, 0.6hrs (35min?)",11.666666666666668,,,10/mo/clone,,0.009794,,
+,Gemelo.ai,,,www.gemelo.ai,,99,24 hours,4.166666666666667,,,,,,,
+,OpenAI (tts-1),,,www.openai.com,,,,,0.015,,,,,821.3333333333334,10869.333333333334
+,OpenAI (tts-1-hd),,,www.openai.com,,,,,0.03,,,,,1309,11126.5
+,Amazon Polly (standard),,,aws.amazon.com,,,,,0.004,,,,,91,783
+,Amazon Polly (neural),,,aws.amazon.com,,,,,0.016,,,,,140,2449
+,Narakeet,,,,,,,,,,,,3.25,,
+,Descript,,,,,,,,,,,,2.221,,
+,Rask.ai,,,,,,,,,,,,1.155,,
+,Typecast,,,,,,,,,,,,0.464106,,
+,Google TTS,,,cloud.google.com,,,,,0.004,,,,,157,1525
+,Azure (Neural),,,https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/,,,,,0.015,,,,,465,2342
+,Balabolka,,,,,,,,,,,,,,
+,Voice Dream Reader,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,"Non-TTS, no API or 1st-gen",,,,,,,,,,,,,,
+,IBM Watson,,,,,20,1m chars (20 hours),1,,,very low quality,,,,
+,iFlyTek,,,,,,1m API calls for $1400,,,,very low quality,,,,
+,Voice.ai,,,,,,,,,,,1.986,"Voice changer, not TTS",,
+,Runway,,,,,,,,,,text-to-video only,,,,
+,Respeecher,2018,,,Alex Serdiuk,0.09,1 second,323.99999999999994,,1.5m,,0.109024,"wtf price, no API",,
+,Voicemod,,,www.voicemod.net,,,,,,,,3.267,real-time voice changer,,
+,Speechki,,,,,99,10k characters,,,,"120/hr for an audiobook, no API",,,,
+,SpeechElo,,,,,,,,,,download only,,,,
+,Speechmatics,,,,,,,,,,transcription (STT) only,,,,
+,Uniphore,,,,,,,,,,ASR suite,,,,
+,Aiola,,,,,,,,,,STT,,,,
+,Wiz.ai,,,,,,,,,,"no api, talkbot for customer service",,,,
+,Coachvox AI,,,,,,,,,,,,,,
+,Revoicer,,,,,67 one-time,600k chars/mo,,,,,,,,
+,Rephrase AI,,,,,,,,,,text-to-video,,,,
+,Voicify,,,,,,,,,,,1.559,no API?,,
+,Audiostack.ai,,,,,,,,,,,,,,
+,ttsconverter.io,,,,,,,,,,,0.020636,,,
+,ttsfree.com,,,,,,,,,,,0.896799,,,
+,ReadSpeaker,,,,,,,,,,,0.658545,,,
+,iSpeech,,,www.ispeech.org,,,,,,,,,,,
+,Vocalware,,,https://www.vocalware.com/index/pricing,,,,,,,,,,,
+,Astica.ai,,,,,8e-05,1 word,20,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Narakeet,,,,,,,,,,,,,,
+,Speechgen,,,,,,,,,,,,,,
+,Voiser,,,,,,,,,,,,,,
+,aiVoov,,,,,,,,,,,,,,
+,Fliki,,,,,,,,,,,,,,
+,Synthesia,,,,,,,,,,,,,,
+,Speakatoo,,,,,,,,,,,,,,
+,TTSFree,,,,,,,,,,,,,,
+,Listnr,,,,,,,,,,,,,,
+,speechki,,,,,,,,,,,,,,

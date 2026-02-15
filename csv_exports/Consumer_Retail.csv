@@ -1,0 +1,39 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+,Name,Ticker,Price,MC,NC,EV,SO,Update,Last
+x,Amazon,AMZN,167.9,1808450.9000000001,48579,1759871.9000000001,10771,Q124,
+x,Walmart,WMT,81.56,656100,,,,,
+x,Costco,COST,895,397000,,,,,
+x,Home Depot,HD,397.5,394166.638935,-38567,432733.638935,991.614186,Q224,2024-09-25 00:00:00
+x,Alibaba,BABA,95.63,234233.73124999998,117419.42857142857,116814.30267857142,2449.375,Q224,2024-09-24 00:00:00
+x,Lowe's,LOW,286.43,163900,,,,,
+x,TJX,TJX,117.15,132400,,,,,
+x,Target,TGT,160.62,74300,,,,,
+x,JD.COM,JD,40.78,64300,,,,,
+,Carvana,CVNA,270.49,57659.36628199,-5096,62755.36628199,213.166351,Q424,2025-03-18 00:00:00
+x,Dollar General,DG,81.36,17900,,,,,
+,Ulta Beauty,ULTA,378.9,17851.7700603,414,17437.7700603,47.114727,Q224,2024-10-14 00:00:00
+,Macy's,M,16.83,4668.19459128,-1091,5759.19459128,277.373416,Q324,2024-12-09 00:00:00
+,AMC,AMC,4.18,639.54,-4619.5,5259.04,153,Q224,2024-10-11 00:00:00
+,Dutch Bros.,BROS,34,4044.688314,31.956000000000017,4012.732314,118.961421,Q224,2024-10-14 00:00:00
+,Gamestop,GME,16.6,7421.5940846,4713,2708.5940846000003,447.083981,Q322,2023-03-19 00:00:00
+x,Walmart de Mexico,WALMEX,,,,,,,
+x,China Tourism,601888 CH,,,,,,,
+x,Woolworth's,WOW AU,,,,,,,
+x,Fast Retailing,9983 JP,,,,,,,
+x,O'Reilly Automotive,ORLY,,,,,,,
+x,Autozone,AZO,,,,,,,
+x,Alimentation Couche-Tard,ATD CN,,,,,,,
+x,Dollar Tree,DLTR,,,,,,,
+x,Seven & I,3382 JP,,,,,,,
+x,Kroger,KR,,,,,,,
+x,Copart,CPRT,,,,,,,
+x,Avenue Supermarts,DMART IN,,,,,,,
+x,Woolworths,WOW AU,,,,,,,
+x,Loblaws,L CN,,,,,,,
+x,Ahold,AD NA,,,,,,,
+x,Ross Stores,ROST,,,,,,,
+x,Tesco,TSCO LN,,,,,,,
+x,Tractor Supply,TSCO US,,,,,,,
+x,Dollarama,DOL CN,,,,,,,
+x,Best Buy,BBY,,,,,,,
+x,Williams-Sonoma,WSM,,,,,,,

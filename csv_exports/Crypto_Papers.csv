@@ -1,0 +1,47 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,Using Time Instead of Timeout for Fault-Tolerant Distributed Systems. Leslie Lamport. ACM Transact Program Lang Syst 1984,,,
+,On optimistic methods for concurrency control. Kung & Robinson. ACM Transact Database Syst 1981,,,
+,"The Loopix Anonymity System. Piotrowska, Hayes, Elahi, Meiser, Danezis. arXiv",,,
+,The Montogomery ladder on binary elliptic curves. Oliveira et al. IACR,,,
+,"An Implementation of Elliptic Curve Cryptosystems Over F2^155. Agnew, Mullin, Vanstone. IEEE J Select Area Comm 1993.",,,
+,A Survey of Modern Integer Factorization Algorithms. Peter Montgomery.,,,
+,"Breaking ECDSA with Two Aﬃnely Related Nonces. Gilchrist, Buchanan, Finlow-Bates. arXiv 4/18/2025.",,,
+,,,,
+,"Ian Blake, Gadiel Seroussi and Nigel Smart, ""Elliptic Curves in Cryptography"", Cambridge University Press",,,
+,"Neal Koblitz, ""Algebraic Aspects of Cryptography"", Springer",,,
+,"Joseph Silverman, ""The Arithmetic of Elliptic Curves"", Springer",,,
+,https://crypto.stanford.edu/pbc/notes/elliptic/movattack.html,,,
+,,,,
+,Journals,,,
+,"Designs, Codes and Cryptography",,,
+,,,,
+,,,,
+,ArXiv,,,
+,2408,641.0,2024-08-02,Robust Restaking Networks
+,2407,21785.0,2024-08-01,Robust Restaking Networks
+,2407,21559.0,2024-08-01,Self-Sovereign Identity for Consented and Content-Based Access to Medical Records using Blockchain
+,2407,21413.0,2024-08-01,Games in Public Announcement: How to Reduce System Losses in Optimistic Blockchain Mechanisms
+,2407,21169.0,2024-07-31,An SMT-LIB Theory of Finite Fields
+,2406,20072.0,2024-07-01,SHA-256 Collision Attack with Programmatic SAT
+,2406,20071.0,2024-07-01,SAT and Lattice Reduction for Integer Factorization
+,2406,19978.0,2024-07-01,Generalized Quantum-assisted Digital Signature
+,2406,19975.0,2024-07-01,On the Response Entropy of APUFs
+,2406,19964.0,2024-07-01,Secure Outsourced Decryption for HE-based Privacy-preserving Cloud Computing System
+,2406,19730.0,2024-07-01,Quantum-Enhanced Secure Approval Voting Protocol
+,2407,7054.0,2024-07-10,A Differentially Private Blockchain-Based Approach for Vertical Federated Learning
+,2407,2452.0,2024-07-03,A Hardware-Friendly Shuffling Countermeasure Against Side-Channel Attacks for Kyber
+,2407,2442.0,2024-07-03,A New Achievable Region of the K-User MAC Wiretap Channel with Confidential and Open Messages Under Strong Secrecy\
+,2407,2226.0,2024-07-03,RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform
+,2407,2167.0,2024-07-03,Reusable Formal Verification of DAG-based Consensus Protocols
+,2407,1844.0,2024-07-02,An Efficient and Sybil Attack Resistant Voting Mechanism
+,2407,1493.0,2024-07-02,"Immutable in Principle, Upgradeable by Design: Exploratory Study of Smart Contract Upgradeability"
+,2407,1426.0,2024-07-03,Maximizing Blockchain Performance: Mitigating Conflicting Transactions through Parallelism and Dependency Management
+,2407,1365.0,2024-07-02,An Operational Semantics for Yul
+,2407,1204.0,2024-07-02,SCIF: A Language for Compositional Smart Contract Security
+,2407,1176.0,2024-07-02,TierDrop: Harnessing Airdrop Farmers for User Growth
+,2407,534.0,2024-06-30,Blockchain based Decentralized Petition System
+,2407,336.0,2024-06-30,Dual-view Aware Smart Contract Vulnerability Detection for Ethereum
+,2407,30.0,2024-05-18,On Orchestrating Parallel Broadcasts for Distributed Ledgers
+,2406,19489.0,2024-06-28,Unraveling Shadows: Exploring the Realm of Elite Cyber Spies
+,2406,19261.0,2024-07-04,Commodification of Compute
+,2406,,,

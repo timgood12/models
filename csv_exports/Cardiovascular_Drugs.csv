@@ -1,0 +1,18 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,Generic,Brand,MOA,Company,Peak Sales,EOL,Approved
+,atorvastatin,Lipitor,HmG-CoA reductase inhibitor,Pfizer,,,
+,rosuvastatin,Crestor,HmG-CoA reductase inhibitor,AstraZeneca,,,
+,simvastatin,Zocor,HmG-CoA reductase inhibitor,Merck,,,
+,pravastatin,Pravachol,HmG-CoA reductase inhibitor,Bristol-Myers,,,
+,cerivastatin,Baychol,HmG-CoA reductase inhibitor,Bayer,,,
+,pitavastatin,Livalo,HmG-CoA reductase inhibitor,"Eli Lilly, Kowa",,,
+,lovastatin,Mevacor,HmG-CoA reductase inhibitor,Merck,,,
+,clopidogrel,Plavix,P2Y12 inhibitor,"Sanofi, Bristol-Myers",,,
+,prasugrel,Effient,P2Y12 inhibitor,Eli Lilly,535,2017,
+,enoxaparin,Lovenox,,,,,
+,heparin,,,,,,
+,warfarin,Coumadin,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,Phase
+,olpasiran,AMG 890,Lp(a) siRNA,Amgen,,,III

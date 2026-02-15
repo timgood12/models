@@ -1,0 +1,56 @@
+Main,Unnamed: 1,Unnamed: 2
+,3D NAND,
+,3D stacked IC,
+,ACF,anisotropic conductive film
+,adhesion layer,
+,BBUL,bumpless build-up layer package
+,BEOL,back-end-of-line process is where multiple metal layers are deposited and patterned on a chip to form interconnections
+,blind vias,"connects an outer layer to an inner layer, but not through the entire board"
+,bond pad,electrical bond pad
+,bridge,
+,bridging die,
+,bump,also known as a solder bump
+,buried vias,"not visible, connects internal PCB layers"
+,carrier wafer,
+,conductive traces,
+,contact pitches,
+,DBF,die backside film
+,die,"the small, thin silce of silicon that houses the IC. Contains millions - billions transistors and other components"
+,,"the active component of the electronic device, it is encased in packaging"
+,dielectric layer,
+,DRIE,deep reactive ion etching
+,electroplating,
+,epoxy film,
+,fabrication,
+,FIVR,fully integrated voltage regulator
+,FLI,first-level interconnect
+,gate-all-around,
+,HBM,
+,Infiniband,
+,integrated circuit,"Circuits were once made of discrete components: individual transistors, resistors, capacitors, diodes, all connected via wires on a circuit board. Jack Kilby and Robert Noyce developed methods to combine these materials on a silicon substrate."
+,logic die,
+,LPD,liquid phase deposition
+,MCI,multilayer chip inductor
+,MEMS,
+,microvias,
+,Omni-Path,
+,packaging,houses the die in a plastic or ceramic enclosure with pins or solder balls to form an IC chip
+,PCB,"printed circuit board, a large, flat board which acts as a platform to connect and organize electronic components such as dies, capacitors, resistors, etc. provides power and communication between components via conductive traces (copper paths"
+,PECVD,plasma-enhanced chemical vapor deposition
+,PCIe,peripheral component interconnect express
+,photolithography,
+,pitch,
+,power bus,
+,RAM die,
+,RF sputtering,
+,routing pitch,
+,system-on-chip,
+,through-hole vias,small drilled hole enabling connection to different layers of the board
+,trace routing,see conductive traces
+,transistor,
+,"transistor, multigate",
+,"transistor, trigate",
+,TSV,through-silicon vias are vias which pass through a silicon die in a 3D stacked IC
+,via,vertical connections that allow signal to pass through different layers of a device.
+,wafer,
+,wet etch,

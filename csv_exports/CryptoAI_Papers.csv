@@ -1,0 +1,48 @@
+Main,Unnamed: 1
+,"The Knowledge Complexity of Interactive Proof Systems. Goldwasser, Micali & Rackoff. SIAM J Comput 1989."
+,
+,
+,
+,vCNN: Verifiable Convolutional Neural Network based on zk-SNARKs
+,https://eprint.iacr.org/2020/584
+,
+,"ZEN: An Optimizing Compiler for Verifiable, Zero-Knowledge Neural Network Inferences"
+,https://eprint.iacr.org/2021/087
+,
+,zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy
+,https://eprint.iacr.org/2021/673
+,
+,Petals
+,https://research.yandex.com/blog/petals-decentralized-inference-and-finetuning-of-large-language-models
+,
+,Practical and Efficient FHE-based MPC
+,https://eprint.iacr.org/2023/981
+,
+,"Kang, Daniel, et al. ""Scaling up Trustless DNN Inference with Zero-Knowledge Proofs."" arXiv preprint arXiv:2210.08674 (2022)."
+,
+,"Jia, Hengrui, et al. ""Proof-of-learning: Definitions and practice."" 2021 IEEE Symposium on Security and Privacy (SP). IEEE, 2021."
+,
+,"Zande, M.J. van de (2019) Leveraging zero-knowledge succinct arguments of knowledge for efficient verification of outsourced training of artificial neural networks."
+,
+,"1. Dwork, Cynthia and Aaron Roth. “The Algorithmic Foundations of Differential Privacy.” Found. Trends Theor. Comput. Sci. 9 (2014): 211-407."
+,"2. Liao, Peiyuan et al. “Information Obfuscation of Graph Neural Networks.” ICML (2021)."
+,"3. McMahan, Brendan, et al. ""Communication-efficient learning of deep networks from decentralized data."" Artificial intelligence and statistics. PMLR, 2017."
+,4. https://github.com/iden3/snarkjs
+,1. https://github.com/zk-ml/linear-regression-demo
+,"2. Kang, Daniel, et al. ""Scaling up Trustless DNN Inference with Zero-Knowledge Proofs."" arXiv preprint arXiv:2210.08674 (2022)."
+,"3. Feng, Boyuan et al. “ZEN: An Optimizing Compiler for Verifiable, Zero-Knowledge Neural Network Inferences.” (2021). "
+,
+,
+,zk-SNARKs: A Gentle Introduction. Anca Nitulescu
+,
+,The Cost of Intelligence: Proving ML Inference with ZK
+,https://drive.google.com/file/d/1tylpowpaqcOhKQtYolPlqvx6R2Gv4IzE/view?pli=1
+,https://blog.axiom.xyz/introducing-axiom/
+,https://a16zcrypto.com/posts/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/
+,https://a16zcrypto.com/posts/article/zero-knowledge-canon/
+,https://a16zcrypto.com/posts/article/snark-security-and-performance/
+,https://a16zcrypto.com/posts/article/measuring-snark-performance-frontends-backends-and-the-future/
+,https://a16zcrypto.com/posts/article/decentralized-speed-advances-in-zero-knowledge-proofs/
+,https://www.di.ens.fr/~nitulesc/files/Survey-SNARKs.pdf
+,https://miro.medium.com/v2/resize:fit:720/format:webp/1*qoXZ1bCcxDNauCruIqb-OA.png
+,https://medium.com/1kxnetwork/zkml-evolving-the-intelligence-of-smart-contracts-through-zero-knowledge-cryptography-e6725412bbd1

@@ -1,0 +1,961 @@
+Main,Unnamed: 1,https://arxiv.org/pdf/2309.09493,Unnamed: 3
+,,https://arxiv.org/pdf/2408.06854,
+,,https://arxiv.org/pdf/2408.06942,
+,,https://arxiv.org/pdf/2408.06906,
+,,https://arxiv.org/pdf/2408.07020,
+,,https://arxiv.org/pdf/2408.06954,
+,,https://arxiv.org/pdf/2408.06740,
+,,PRESENT: Zero-Shot Text-to-Prosody Control,
+,,https://arxiv.org/pdf/2408.06827,
+,,,
+,,,
+,,,
+,2024-02-20 00:00:00,Towards audio language modeling - an overview,
+,,Authors,Wu et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2402.13236.pdf
+,,,
+,2024-01-31 00:00:00,EVA-GAN: Enhanced Various Audio Generation via Scalable GANs,
+,,Authors,Nvidia
+,,Citations,
+,,Link,https://arxiv.org/pdf/2402.00892.pdf
+,,Link2,https://double-blind-eva-gan.cc/
+,,,
+,2024-01-30 00:00:00,MusicGen: Simple and Controllable Music Generation,
+,,Authors,Meta: Copet et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2306.05284.pdf
+,,,
+,2024-01-23 00:00:00,SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models,
+,,Authors,Zhang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2308.16692.pdf
+,,,
+,2024-01-19 00:00:00,Pengi: An Audio Language Model for Audio Tasks,
+,,Authors,Microsoft: Deshmukh et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2305.11834.pdf
+,,,
+,2024-01-05 00:00:00,M2UGen: Multi-modal Music Understanding and Generation with the Power of LLMs,
+,,Authors,Hussain et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2311.11255.pdf
+,,,
+,2024-01-05 00:00:00,Pheme: Efficient and Conversational Speech Generation,
+,,Authors,"Poly AI: Paweł Budzianowski, Taras Sereda, Tomasz Cichy, Ivan Vulic"
+,,Citations,
+,,Link,https://arxiv.org/pdf/2401.02839.pdf
+,,,
+,2024-01-05 00:00:00,Towards ASR Robust Spoken Language Understanding Through In-Context Learning with Word Confusion Networks,
+,,Authors,"Amazon: Kevin Everson et al, Amazon."
+,,Citations,
+,,Link,https://arxiv.org/abs/2401.02921
+,,,
+,2023-12-11 00:00:00,UniAudio: An Audio Foundation Model toward Universal Audio Generation,
+,,Authors,(CMU/Microsoft) Yang et al.
+,,Citations,
+,,Link,
+,,,
+,2023-11-26 00:00:00,WavJourney: Compositional Audio Creation with LLMs,
+,,Authors,Liu et al.
+,,Citations,
+,,Link,
+,,,
+,2024-11-14 00:00:00,Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models,
+,,Authors,Alibaba: Chu et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2311.07919v1.pdf
+,,,
+,2023-10-23 00:00:00,Mousai: Efficient Text-to-Music Diffusion Models,
+,,Authors,ETH Zurich: Schneider et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2301.11757.pdf
+,,,
+,2023-10-12 00:00:00,PromptTTS 2: Describing and Generating Voices with Text Prompt,
+,,Authors,Microsoft: Leng et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2309.02285.pdf
+,,,
+,2023-09-21 00:00:00,ERNIE-Music: Text-to-Waveform Music Generation with Diffusion Models,
+,,Authors,Baidu: Zhu et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2302.04456.pdf
+,,,
+,2023-09-09 00:00:00,AudioLDM: Text-to-Audio Generation with Latent Diffusion Models,
+,,Authors,Liu et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2301.12503.pdf
+,,,
+,2023-08-14 00:00:00,SpeechX: Neural Codec Language Model as a Versatile Speech Transformer,
+,,Authors,Microsoft: Wang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2308.06873.pdf
+,,,
+,2023-07-31 00:00:00,VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design,
+,,Authors,"SK Telecom: Jungil Kong, Jihoon Park, Beomjeong Kim, Jeongmin Kim, Dohee Kong, Sangjin Kim"
+,,Citations,
+,,Link,https://arxiv.org/abs/2307.16430
+,,,
+,2023-07-26 00:00:00,AudioLM: a Language Modeling Approach to Audio Generation,
+,,Authors,Google: Zalan Borsos et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2209.03143.pdf
+,,,
+,2023-07-08 00:00:00,Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos,
+,,Authors,Su et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2303.16897.pdf
+,,,
+,2023-06-25 00:00:00,InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt,
+,,Authors,Yang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2301.13662.pdf
+,,,
+,2023-06-22 00:00:00,AudioPaLM: A Large Language Model That Can Speak and Listen,
+,,Authors,Google: Rubenstein et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2306.12925.pdf
+,,,
+,2023-06-15 00:00:00,"Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language",
+,,Authors,Meta: Baevski et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2212.07525.pdf
+,,,
+,2023-05-31 00:00:00,MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets,
+,,Authors,Ma et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2211.07321.pdf
+,,,
+,2023-05-30 00:00:00,NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers,
+,,Authors,Microsoft: Shen et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2304.09116.pdf
+,,,
+,2023-05-29 00:00:00,Make-An-Audio 2: Temporal-Enhanced Text-to-Audio Generation,
+,,Authors,Huang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2305.18474.pdf
+,,,
+,2023-05-25 00:00:00,Efficient Neural Music Generation,
+,,Authors,ByteDance: Lam et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2305.15719.pdf
+,,,
+,2023-05-23 00:00:00,Tortoise: Better speech synthesis through scaling,
+,,Authors,James Betker
+,,Citations,
+,,Link,https://arxiv.org/abs/2305.07243
+,,,
+,2023-05-16 00:00:00,SoundStorm: Efficient Parallel Audio Generation,
+,,Authors,"Google: Zalan Borsos, et al."
+,,Citations,
+,,Link,https://arxiv.org/pdf/2305.09636.pdf
+,,,
+,2023-05-03 00:00:00,Diverse and Vivid Sound Generation from Text Descriptions,
+,,Authors,Li et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2305.01980.pdf
+,,,
+,2023-04-25 00:00:00,"AudioGPT: Understanding and Generating Speech, Mussic, Sound, and Talking Head",
+,,Authors,Huang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2304.12995.pdf
+,,,
+,2023-04-24 00:00:00,TANGO: Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model,
+,,Authors,Ghosal et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/2304.13731
+,,,
+,2023-04-05 00:00:00,AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models,
+,,Authors,Microsoft: Wang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2304.00830.pdf
+,,,
+,2023-03-08 00:00:00,FoundationTTS: Text-to-Speech for ASR Customization with Generative Language Model,
+,,Authors,Xue et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2303.02939v3.pdf
+,,,
+,2023-03-07 00:00:00,Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling (VALL-E X),
+,,Authors,Microsoft: Zhang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2303.03926.pdf
+,,,
+,2023-03-06 00:00:00,Noise2Music: Text-conditioned Music Generation with Diffusion Models,
+,,Authors,Google: Huang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2302.03917.pdf
+,,,
+,2023-02-07 00:00:00,"Spear-TTS: Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision",
+,,Authors,Google: Kharitonov et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/2302.03540
+,,,
+,2023-01-30 00:00:00,SingSong: Generating musical accompaniments from singing,
+,,Authors,Google: Donahue et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2301.12662.pdf
+,,,
+,2023-01-30 00:00:00,Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models,
+,,Authors,Huang et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/2301.12661
+,,,
+,2023-01-30 00:00:00,ArchiSound: Audio Generation with Diffusion,
+,,Authors,Flavio Schneider
+,,Citations,
+,,Link,https://arxiv.org/abs/2301.13267
+,,,
+,2023-01-26 00:00:00,MusicLM: Generating Music From Text,
+,,Authors,Google: Agostinelli et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2301.11325.pdf
+,,,
+,2023-01-05 00:00:00,Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (Vall-E),
+,,Authors,"Microsoft: Chengyi Wang, Sanyuan Chen, Yu Wu, Ziqiang Zhang, Long Zhou, Shujie Liu, Zhuo Chen, Yanqing Liu, Huaming Wang, Jinyu Li, Lei He, Sheng Zhao, Furu Wei"
+,,Citations,
+,,Link,https://arxiv.org/abs/2301.02111
+,,,
+,2022-11-22 00:00:00,PromptTTS: Controllable TTS with Text Descriptions,
+,,Authors,Guo et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2211.12171.pdf
+,,,
+,2022-10-25 00:00:00,"data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language",
+,,Authors,Meta: Baevski et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2202.03555.pdf
+,,,
+,2022-08-26 00:00:00,Mulan: A Joint Embedding of Music Audio and Natural Language,
+,,Authors,Google: Huang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2208.12415.pdf
+,,,
+,2022-07-20 00:00:00,Diffsound: Discrete Diffusion Model for Text-to-sound Generation,
+,,Authors,Yang et al
+,,Citations,
+,,Link,https://arxiv.org/pdf/2207.09983v1.pdf
+,,,
+,2022-04-20 00:00:00,ContentVec: An Improved Self-Supervised Speech Representation by Disentangling Speakers,
+,,Authors,Qian et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/2204.09224
+,,,
+,2022-03-30 00:00:00,Generative Spoken Dialogue Language Modeling,
+,,Authors,"Meta: Tu Anh Nguyen, Eugene Kharitonov, Jade Copet, Yossi Adi, Wei-Ning Hsu, Ali Elkahky, Paden Tomasello, Robin Algayres, Benoit Sagot, Abdelrahman Mohamed, Emmanuel Dupoux"
+,,Citations,
+,,Link,https://arxiv.org/abs/2203.16502
+,,,
+,2022-03-29 00:00:00,Efficient Training of Audio Transformers with Patchout,
+,,Authors,Koutini et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2110.05069.pdf
+,,,
+,2021-12-21 00:00:00,Augmented Contrastive Self-Supervised Learning for Audio Invariant Representations,
+,,Authors,Emami et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2112.10950.pdf
+,,,
+,2021-11-03 00:00:00,A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion,
+,,Authors,Ubisoft: van Niekerk et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/2111.02392
+,,,
+,2021-09-13 00:00:00,W2V-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training,
+,,Authors,Google: Chung et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2108.06209.pdf
+,,,
+,2021-06-14 00:00:00,HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units,
+,,Authors,Meta: Hsu et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2106.07447.pdf
+,,,
+,2021-05-13 00:00:00,Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech,
+,,Authors,"Huawei: Vadim Popov, Ivan Vovk, Vladimir Gogoryan, Tasnima Sadekova, Mikhail Kudinov"
+,,Citations,
+,,Link,https://arxiv.org/abs/2105.06337
+,,,
+,2021-03-04 00:00:00,Perceiver: General Perception with Iterative Attention,
+,,Authors,"Google: Andrew Jaegle, Felix Gimeno, Andrew Brock, Andrew Zisserman, Oriol Vinyals, Joao Carreira"
+,,Citations,
+,,Link,https://arxiv.org/abs/2103.03206
+,,,
+,2021-02-25 00:00:00,Mixspeech: Data Augmentation for Low-Resource Automatic ASR,
+,,Authors,"Google: Andrew Jaegle, Felix Gimeno, Andrew Brock, Andrew Zisserman, Oriol Vinyals, Joao Carreira"
+,,Citations,
+,,Link,https://arxiv.org/abs/2103.03206
+,,,
+,2020-10-29 00:00:00,Improved Noisy Student Training for ASR,
+,,Authors,Google: Park et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2005.09629.pdf
+,,,
+,2020-10-22 00:00:00,wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations,
+,,Authors,Facebook: Baevski et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2006.11477.pdf
+,,,
+,2020-10-12 00:00:00,HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis,
+,,Authors,Kakao: Kong et al.
+,,Citations,1234
+,,Link,https://arxiv.org/abs/2010.05646
+,,,
+,2020-06-30 00:00:00,On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition,
+,,Authors,Microsoft: Li et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2005.14327.pdf
+,,,
+,2020-06-08 00:00:00,FastSpeech 2: Fast and High-Quality End-to-End Text to Speech,
+,,Authors,"Microsoft: Yi Ren, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu"
+,,Citations,
+,,Link,https://arxiv.org/abs/2006.04558
+,,,
+,2020-05-22 00:00:00,Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search,
+,,Authors,"Kakao: Jaehyeon Kim, Sungwon Kim, Jungil Kong, Sungroh Yoon"
+,,Citations,
+,,Link,https://arxiv.org/abs/2005.11129
+,,,
+,2020-05-18 00:00:00,Effectiveness of Self-Supervised Pre-Training for Speech Recognition,
+,,Authors,Facebook: Baevski et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1911.03912.pdf
+,,,
+,2020-05-16 00:00:00,ContextNet: Improving Convolutional Neural Networks for ASR with Global Context,
+,,Authors,Google: Han et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2005.03191.pdf
+,,,
+,2020-05-16 00:00:00,Conformer: Convolution-augmented Transformer for Speech Recognition,
+,,Authors,Google: Gulati et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/2005.08100v1.pdf
+,,,
+,2020-05-12 00:00:00,Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis,
+,,Authors,"Nvidia: Rafael Valle, Kevin Shih, Ryan Prenger, Bryan Catanzaro"
+,,Citations,
+,,Link,https://arxiv.org/abs/2005.05957
+,,,
+,2020-05-12 00:00:00,AdaDurIAN: Few-shot Adaptation for Neural Text-to-Speech with DurIAN,
+,,Authors,Tencent: Zewang Zhang et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/2005.05642
+,,,
+,2020-02-16 00:00:00,VQ-wav2vec: Self-supervised learning of discrete speech representations,
+,,Authors,Facebook: Baevski et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1910.05453.pdf
+,,,
+,2020-02-04 00:00:00,Boffin TTS: Few-Shot Speaker Adaptation by Bayesian Optimization,
+,,Authors,Amazon: Henry Moss et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/2002.01953
+,,,
+,2020,Parallel WaveGAN: a fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram,
+,,Authors,Yamamoto et al.
+,,Citations,
+,,Link,
+,,,
+,2019-12-03 00:00:00,SpecAugment: A Simple Data Augmentation Method for ASR,
+,,Authors,Google: Park et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1904.08779.pdf
+,,,
+,2019-10-23 00:00:00,Zero-Shot Multi-Speaker Text-to--Speech with State-of-the-art Neural Speaker Embeddings,
+,,Authors,Erica Cooper et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1910.10838
+,,,
+,2019-10-08 00:00:00,MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis,
+,,Authors,"Mila, Lyrebird: Kumar et al."
+,,Citations,881
+,,Link,https://arxiv.org/abs/1910.06711
+,,,
+,2019-05-22 00:00:00,"FastSpeech: Fast, Robust and Controllable Text to Speech",
+,,Authors,"Microsoft: Yi Ren, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu"
+,,Citations,
+,,Link,https://arxiv.org/abs/1905.09263
+,,,
+,2019-05-02 00:00:00,"High quality, lightweight and adaptable TTS using LPCNet",
+,,Authors,IBM: Zvi Kons et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1905.00590
+,,,
+,2019-01-02 00:00:00,Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis,
+,,Authors,Google: Ye Jia et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1806.04558
+,,,
+,2018-11-24 00:00:00,Representation Mixing for TTS Synthesis,
+,,Authors,"Mila: Kyle Kastner, et al."
+,,Citations,
+,,Link,https://arxiv.org/abs/1811.07240
+,,,
+,2018-11-01 00:00:00,An Improved Hybrid CTC-Attention Model for Speech Recognition,
+,,Authors,Cloudwalk: Yuan et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1810.12020.pdf
+,,,
+,2018-10-31 00:00:00,WaveGlow: A Flow-based Generative Network for Speech Synthesis,
+,,Authors,"Ryan Prenger, Rafael Valle, Bryan Catanzaro"
+,,Citations,
+,,Link,https://arxiv.org/abs/1811.00002
+,,,
+,2018-10-31 00:00:00,Improving the performance of Online Neural Transducer Models,
+,,Authors,Google: Tara Sainath et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1712.01807.pdf
+,,,
+,2018-10-31 00:00:00,Exploring Speech Enhancement With Generative Adversarial Networks for Robust Speech Recognition,
+,,Authors,Kim et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1609.06773.pdf
+,,,
+,2018-10-12 00:00:00,Neural Voice Cloning with a Few Samples,
+,,Authors,Baidu: Sercan Arik et al
+,,Citations,
+,,Link,https://arxiv.org/abs/1802.06006
+,,,
+,2018-09-27 00:00:00,Sample Efficient Adaptive Text-to-Speech,
+,,Authors,Google: Chen et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1809.10460
+,,,
+,2018-09-21 00:00:00,Deep Learning for Environmentally Robust Speech Recognition: An Overview of Recent Developments,
+,,Authors,Zhang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1705.10874.pdf
+,,,
+,2018-09-19 00:00:00,Neural Speech Synthesis with Transformer Network,
+,,Authors,"Microsoft: Naihan Li, Shujie Liu, Yanqing Liu, Sheng Zhao, Ming Liu, Ming Zhou"
+,,Citations,
+,,Link,https://arxiv.org/abs/1809.08895
+,,,
+,2018-09-06 00:00:00,Hybrid CTC-Attention based End-to-End Speech Recognition using Subword Units,
+,,Authors,Xiao et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1807.04978.pdf
+,,,
+,2018-06-12 00:00:00,Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis,
+,,Authors,Google: Ye Jia et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1806.04558
+,,,
+,2018-04-04 00:00:00,Learning Filterbanks from Raw Speech for Phone Recognition,
+,,Authors,Facebook: Neil Zeghidour et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1711.01161.pdf
+,,,
+,2018-03-24 00:00:00,Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron,
+,,Authors,Google: RJ Skerry-Ryan et al
+,,Citations,
+,,Link,https://arxiv.org/abs/1803.09047
+,,,
+,2018-03-23 00:00:00,"Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis",
+,,Authors,Google: Yuxuan Wang et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1803.09017
+,,,
+,2018-02-23 00:00:00,State-of-the-art Speech Recognition with Sequence-to-Sequence Models,
+,,Authors,Google: Chung-Cheng Chiu et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1712.01769.pdf
+,,,
+,2018-02-23 00:00:00,Efficient Neural Audio Synthesis,
+,,Authors,"Google: Nal Kalchbrenner, Erich Elsen, Karen Simonyan, Seb Noury, Norman Casagrande, Edward Lockhart, Florian Stimberg, Aaron van den Oord, Sander Dieleman, Koray Kavukcuoglu"
+,,Citations,908
+,,Link,https://arxiv.org/abs/1802.08435
+,,,
+,2024-02-15 00:00:00,Multilingual Speech Recognition with a Single End-to-End Model,
+,,Authors,Shubham Toshinwal & Google
+,,Citations,
+,,Link,https://arxiv.org/pdf/1711.01694.pdf
+,,,
+,2018-02-13 00:00:00,Attention-based end-to-end speech recognition on Voice Search,
+,,Authors,Shan et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1707.07167.pdf
+,,,
+,2018-01-30 00:00:00,Accelerating Recurrent Neural Network Language Model Based Online Speech Recognition System,
+,,Authors,Samsung: Lee et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1801.09866.pdf
+,,,
+,2017-12-16 00:00:00,Natural TTS Synthesis by Conditioning Wavenet on MEL Spectrogram Predictions (Tacotron 2),
+,,Authors,"Google: Jonathan Shen, Ruoming Pang, Ron J. Weiss, Mike Schuster, Navdeep Jaitly, Zongheng Yang, Zhifeng Chen, Yu Zhang, Yuxuan Wang, RJ Skerry-Ryan, Rif A. Saurous, Yannis Agiomyrgiannakis, Yonghui Wu"
+,,Citations,2831
+,,Link,https://arxiv.org/abs/1712.05884
+,,,
+,2017-11-06 00:00:00,Towards Language-Universal End-to-End Speech Recognition,
+,,Authors,Kim et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1711.02207.pdf
+,,,
+,2017-11-05 00:00:00,Robust Speech Recognition Using GANs,
+,,Authors,Baidu: Sriram et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1711.01567.pdf
+,,,
+,2017-10-28 00:00:00,Generalized End-to-End Loss for Speaker Verification,
+,,Authors,Google: Li Wan et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1710.10467
+,,,
+,2017-10-28 00:00:00,Speaker diarization with LSTM,
+,,Authors,Google: Quan Wang et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1710.10468
+,,,
+,2017-08-12 00:00:00,Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence Labeling,
+,,Authors,Baidu: Liu et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1703.00096.pdf
+,,,
+,2017-07-19 00:00:00,Dynamic Layer Normalization for Adaptive Neural Acoustic Modeling in Speech Recognition,
+,,Authors,Kim et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1707.06065v1.pdf
+,,,
+,2017-06-16 00:00:00,An online sequence-to-sequence model for noisy speech recognition,
+,,Authors,Chung-Cheng Chiu
+,,Citations,
+,,Link,https://arxiv.org/pdf/1706.06428.pdf
+,,,
+,2017-06-08 00:00:00,Optimizing Expected Word Error Rate via Sampling for Speech Recognition,
+,,Authors,Google: Matt Shannon
+,,Citations,
+,,Link,https://arxiv.org/pdf/1706.02776.pdf
+,,,
+,2017-06-05 00:00:00,Multitask Learning with CTC and Segmental CRF for Speech Recognition,
+,,Authors,Lu et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1702.06378.pdf
+,,,
+,2017-06-05 00:00:00,Residual LSTM: Design of a Deep Recurrent Architecture for Distant Speech Recognition,
+,,Authors,Kim et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1701.03360.pdf
+,,,
+,2017-05-11 00:00:00,Reducing Bias in Production Speech Models,
+,,Authors,Baidu: Battenberg et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1705.04400.pdf
+,,,
+,2017-05-05 00:00:00,Deep Speaker: an End-to-End Neural Speaker Embedding System,
+,,Authors,Baidu: Chao Li et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1705.02304
+,,,
+,2017-03-23 00:00:00,A Network Of Deep Neural Networks for Distant Speech Recognition,
+,,Authors,Ravanelli et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1703.08002.pdf
+,,,
+,2017-03-21 00:00:00,Deep LSTM for Large Vocabulary Continuous Speech Recognition,
+,,Authors,Alibaba: Tian et al.
+,,Citations,
+,,Link,
+,,,
+,2017-03-14 00:00:00,Multichannel End-to-end Speech Recognition,
+,,Authors,Baidu: Chao Li et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1705.02304
+,,,
+,2017-02-24 00:00:00,Residual Convolutional CTC Networks for ASR,
+,,Authors,Tencent: Wang et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1702.07793.pdf
+,,,
+,2017,Multichannel Signal Processing with DNNs for ASR,
+,,Authors,Sainath et al.
+,,Citations,
+,,Link,https://ieeexplore.ieee.org/document/7859320
+,,,
+,2017,Joint CTC-Attention Based End-to-End Speech Recognition Using Multi-Task Learning,
+,,Authors,Kim et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1609.06773.pdf
+,,,
+,2017,ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA,
+,,Authors,Han et al.
+,,Citations,
+,,Link,https://dl.acm.org/doi/10.1145/3020078.3021745
+,,,
+,2017,Char2Wav: End-To-End Speech Synthesis,
+,,Authors,"Mila: Jose Sotelo, et al."
+,,Citations,
+,,Link,https://mila.quebec/wp-content/uploads/2017/02/end-end-speech.pdf
+,,,
+,2017,An Unsupervised Speaker Clustering Technique based on SOM and I-vectors for Speech Recognition Systems,
+,,Authors,Ahmed et al.
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/An-Unsupervised-Speaker-Clustering-Technique-based-Ahmed-Elaraby/f5be2cb9d37e5e54c5d20644ff7025cdee14995f?p2df
+,,,
+,2017,Deep Neural Network Embeddings for Text-Independent Speaker Verification,
+,,Authors,Snyder et al.
+,,Citations,
+,,Link,https://www.danielpovey.com/files/2017_interspeech_embeddings.pdf
+,,,
+,2017,English Conversational Telephone Speech Recognition by Humans and Machines,
+,,Authors,IBM: Saon et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1703.02136.pdf
+,,,
+,2017,Advances in Joint CTC-Attention based End-to-End Speech Recognition with a Deep CNN Encoder and RNN-LM,
+,,Authors,Hori et al.
+,,Citations,
+,,Link,https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?tab=readme-ov-file
+,,,
+,2017,"Attentive CNN based Speech Emotion Recognition: A Study on the Impact of Input Features, Signal Length and Acted Speech",
+,,Authors,Neumann et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1706.00612.pdf
+,,,
+,2017,An enhanced ASR system for Arabic,
+,,Authors,Menacer et al.
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/An-enhanced-automatic-speech-recognition-system-for-Menacer-Mella/f4aed9743c034a98493002c128d4662217f54e17?p2df
+,,,
+,2017,Non-parallel voice conversion using i-vector PLDA: towards unifying speaker verification and transformation,
+,,Authors,Kinnunen et al.
+,,Citations,28
+,,Link,https://ieeexplore.ieee.org/document/7953215
+,,,
+,2017,Direct Acoustics-to-Word Models for English Conversational Speech Recognition,
+,,Authors,IBM: Audhkhasi et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1703.07754.pdf
+,,,
+,2017,Advances in All-Neural Speech Recognition,
+,,Authors,Microsoft: Zweig et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1609.05935.pdf
+,,,
+,2017,Advances in Very Deep Convolutional Neural Networks for LVCSR,
+,,Authors,Sercu et al.
+,,Citations,44
+,,Link,https://www.semanticscholar.org/paper/Advances-in-Very-Deep-Convolutional-Neural-Networks-Sercu-Goel/76b1791f2d2776c4d3dd671b7e4f2a9fb3575703?p2df
+,,,
+,2014,Increasing DNN Acoustic Model Size for Large Vocabulary Continuous Speech Recognition,
+,,Authors,Maas et al.
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/Increasing-Deep-Neural-Network-Acoustic-Model-Size-Maas-Hannun/ff7b9fbbbdc78d874fa93134d643a5a0295f648f?p2df
+,,,
+,2017,Latent Sequence Decompositions,
+,,Authors,Chan et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1610.03035.pdf
+,,,
+,2016-12-08 00:00:00,Towards better decoding and language model integration in sequence to sequence models,
+,,Authors,"Google: Jan Chorowski, Navdeep Jaitly"
+,,Citations,
+,,Link,https://arxiv.org/pdf/1612.02695.pdf
+,,,
+,2016-10-17 00:00:00,End-to-end Attention-Based Distant Speech Recognition with Highway LSTM,
+,,Authors,Hassan Taherian
+,,Citations,
+,,Link,https://arxiv.org/pdf/1610.05361.pdf
+,,,
+,2016-09-13 00:00:00,Wav2Letter: an End-to-End ConvNet-based Speech Recognition System,
+,,Authors,"Facebook: Collobert, et al."
+,,Citations,
+,,Link,https://arxiv.org/pdf/1609.03193.pdf
+,,,
+,2016-09-12 00:00:00,WaveNet: A Generative Model for Raw Audio,
+,,Authors,"Google: Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu"
+,,Citations,
+,,Link,https://arxiv.org/abs/1609.03499
+,,,
+,2016,End-to-end attention-based large vocabulary speech recognition,
+,,Authors,Bahdanau et al.
+,,Citations,527
+,,Link,https://ieeexplore.ieee.org/document/7472618
+,,,
+,2016,Deep Speech 2: End-to-End Speech Recognition in English and Mandarin,
+,,Authors,Baidu: Amodei et al.
+,,Citations,2741
+,,Link,https://www.semanticscholar.org/paper/Deep-Speech-2-%3A-End-to-End-Speech-Recognition-in-Amodei-Ananthanarayanan/13497bd108d4412d02050e646235f456568cf822?p2df
+,,,
+,2016,Modeling Time-Frequency Patterns with LSTM vs. Convolutional Architectures for LVCSR Tasks,
+,,Authors,"Google: Tara Sainath, Bo Li"
+,,Citations,
+,,Link,https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45401.pdf
+,,,
+,2016,Deep Convolutional Neural Networks with Layer-Wise Context Expansion and Attention,
+,,Authors,Yu et al.
+,,Citations,72
+,,Link,https://www.semanticscholar.org/paper/Deep-Convolutional-Neural-Networks-with-Layer-Wise-Yu-Xiong/716e60cbbdacf01b3148e91a555358a96308b770?p2df
+,,,
+,2016,"Listen, attend and spell: A neural network for large vocabulary conversational speech recognition",
+,,Authors,Chan et al.
+,,Citations,995
+,,Link,https://ieeexplore.ieee.org/document/7472621
+,,,
+,2016,Very Deep CNNs for Noise Robust Speech Recognition,
+,,Authors,Qian et al.
+,,Citations,
+,,Link,https://ieeexplore.ieee.org/document/7552554
+,,,
+,2016-10-10 00:00:00,Very Deep CNNs for End-to-End Speech Recognition,
+,,Authors,Zhang et al
+,,Citations,
+,,Link,https://arxiv.org/pdf/1610.03022.pdf
+,,,
+,2016-10-10 00:00:00,Very deep multilingual CNNs for LVCSR,
+,,Authors,Sercu et al.
+,,Citations,
+,,Link,https://ieeexplore.ieee.org/document/7472620
+,,,
+,2016,Segmental Recurrent Neural Networks for End-to-End Speech Recognition.,
+,,Authors,Lu et al.
+,,Citations,81
+,,Link,https://www.semanticscholar.org/paper/Segmental-Recurrent-Neural-Networks-for-End-to-End-Lu-Kong/aedffcebea081138a0f2bf2454f872700237fbf6?p2df
+,,,
+,2015-10-18 00:00:00,EESEN: End-to-end speech recognition using Deep RNN models and WFST-based decoding,
+,,Authors,CMU: Miao et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1507.08240.pdf
+,,,
+,2015,Online Sequence Training of Recurrent Neural Networks with Connectionist Temporal Classification,
+,,Authors,Hwang & Sung.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1511.06841.pdf
+,,,
+,2015,Recurrent Models for Auditory Attention in Multi-Microphone Distant Speech Recognition,
+,,Authors,Kim et al.
+,,Citations,26
+,,Link,https://www.semanticscholar.org/paper/Recurrent-Models-for-Auditory-Attention-in-Distant-Kim-Lane/d35d6aa39d3932e3e2217f6fde4f2f0bf1969dbb?p2df
+,,,
+,2015,Lexicon-Free Conversational Speech Recognition with Neural Networks,
+,,Authors,Maas et al.
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/Lexicon-Free-Conversational-Speech-Recognition-with-Maas-Xie/55ee875b9039febd378a3f8ac4e3d7603f83d57c?p2df
+,,,
+,2015,Fast and accurate recurrent neural network acoustic models for speech recognition,
+,,Authors,Sak et al.
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/Fast-and-accurate-recurrent-neural-network-acoustic-Sak-Senior/9fca2af9a0e3f2c5c3ed47abb3ebd21b7265ac2b?p2df
+,,,
+,2015,Deep Neural Networks for Single-Channel Multi-Talker Speech Recognition,
+,,Authors,Weng et al.
+,,Citations,
+,,Link,https://ieeexplore.ieee.org/document/7122291
+,,,
+,2015,Deep convolutional neural networks for acoustic modeling in low resource languages,
+,,Authors,William Chan
+,,Citations,
+,,Link,https://ieeexplore.ieee.org/document/7178332
+,,,
+,2015,"Convolutional, Long Short-Term Memory, fully connected Deep Neural Networks",
+,,Authors,Tara Sainath
+,,Citations,810
+,,Link,https://ieeexplore.ieee.org/document/7178838
+,,,
+,2015,Analysis of CNN-based speech recognition system using raw speech as input,
+,,Authors,Palaz et al.
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/Analysis-of-CNN-based-speech-recognition-system-raw-Palaz-Magimai-Doss/0f94b1b699f1320a5fadbb34d29e8e255da8942f?p2df
+,,,
+,2015-06-24 00:00:00,Attention-Based Models for Speech Recognition,
+,,Authors,Chorowski et al.
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/Attention-Based-Models-for-Speech-Recognition-Chorowski-Bahdanau/b624504240fa52ab76167acfe3156150ca01cf3b?p2df
+,,,
+,2014-12-04 00:00:00,End-to-end Continuous Speech Recognition using Attention-based Recurrent NN: First Results,
+,,Authors,Chorowski et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1412.1602.pdf
+,,,
+,2014-12-17 00:00:00,Deep Speech: Scaling up end-to-end speech recognition,
+,,Authors,"Baidu: Awni Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, Andrew Y. Ng"
+,,Citations,
+,,Link,https://arxiv.org/abs/1412.5567
+,,,
+,2014-12-08 00:00:00,First-Pass Large Vocabulary Continuous Speech Recognition using Bi-Directional Recurrent DNNs,
+,,Authors,Hannun et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1408.2873.pdf
+,,,
+,2014-06-03 00:00:00,Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation,
+,,Authors,Umontreal: Cho et al.
+,,Citations,
+,,Link,https://arxiv.org/abs/1406.1078
+,,,
+,2014,A Neural Transducer,
+,,Authors,Google: Jaitly et al.
+,,Citations,
+,,Link,https://arxiv.org/pdf/1511.04868.pdf
+,,,
+,2014,Towards End-To-End Speech Recognition with Recurrent Neural Networks,
+,,Authors,Graves et al.
+,,Ciations,
+,,Link,https://www.semanticscholar.org/paper/Towards-End-To-End-Speech-Recognition-with-Neural-Graves-Jaitly/0fa553cfa0cf3cbdf7a913aa2ae789a757dfb32f?p2df
+,,,
+,2014,Stochastic pooling maxout networks for low-resource speech recognition,
+,,Authors,Cai et al.
+,,Citations,
+,,Link,https://ieeexplore.ieee.org/document/6854204
+,,,
+,2014,Robust CNN-based speech recognition with Gabor filter kernels,
+,,Authors,Chang et al.
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/Robust-CNN-based-speech-recognition-with-Gabor-Chang-Morgan/1d340fe19026b0359bde23fcd7299a99a240bd15?p2df
+,,,
+,2014,Long short-term memory recurrent neural network architectures for large scale acoustic modeling,
+,,Authors,Sak et al.
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/Long-short-term-memory-recurrent-neural-network-for-Sak-Senior/067e07b725ab012c80aa2f87857f6791c1407f6d?p2df
+,,,
+,2014,Combining time- and frequency-domain convolution in convolutional neural network-based phone recognition,
+,,Authors,Laszlo Toth
+,,Citations,
+,,Link,https://ieeexplore.ieee.org/document/6853584
+,,,
+,2014,Convolutional Neural Networks for Speceh Recognition,
+,,Authors,Abdel-Hamid et al.
+,,Citations,1479
+,,Link,https://ieeexplore.ieee.org/document/6857341
+,,,
+,2014,Convolutional deep maxout networks for phone recognition,
+,,Authors,Toth et al.
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/Convolutional-deep-maxout-networks-for-phone-T%C3%B3th/0a245098455a6663f922a83d318f7b61d357ab1f?p2df
+,,,
+,2014,Speech recognition with deep recurrent neural networks,
+,,Authors,Graves et al.
+,,Citations,
+,,Link,https://ieeexplore.ieee.org/document/6638947
+,,,
+,2013,Recent advances in deep learning for speech research at Microsoft,
+,,Authors,Microsoft: Deng et al.
+,,Citations,
+,,Link,https://ieeexplore.ieee.org/document/6639345
+,,,
+,2013,Machine Learning Paradigms for Speech Recognition: An Overview,
+,,Authors,Microsoft: Li Deng and Xiao Li
+,,Citations,244
+,,Link,https://ieeexplore.ieee.org/document/6423821
+,,,
+,2013,Improvements to Deep Convolutional Neural Networks for LVCSR,
+,,Authors,Sainath et al
+,,Citations,
+,,Link,https://www.semanticscholar.org/paper/Improvements-to-Deep-Convolutional-Neural-Networks-Sainath-Kingsbury/709e40a2614846a48d8e25f114eb2fa6ece853cc?p2df
+,,,
+,2013,Improving low-resource CD-DNN-HMM using dropout and multilingual DNN training,
+,,Authors,Miao et al.
+,,Citations,72
+,,Link,https://www.semanticscholar.org/paper/Improving-low-resource-CD-DNN-HMM-using-dropout-and-Miao-Metze/0992d407001c6a681bd4cb571a777d2c2dc274fd?p2df
+,,,
+,2013,Improving deep neural networks for LVCSR using rectified linear units and dropout,
+,,Authors,Dahl et al.
+,,Citations,732
+,,Link,https://ieeexplore.ieee.org/document/6639346/
+,,,
+,2013,Deep convolutional neural networks for LVCSR,
+,,Authors,Sainath et al.
+,,Citations,581
+,,Link,https://ieeexplore.ieee.org/document/6639347
+,,,
+,2012,Sequence Transduction with Recurrent Neural Networks,
+,,Authors,Alex Graves
+,,Citations,
+,,Link,https://arxiv.org/pdf/1211.3711.pdf
+,,,
+,2012,Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups,
+,,Authors,Hinton et al.
+,,Citations,6668
+,,Link,https://ieeexplore.ieee.org/document/6296526
+,,,
+,2012,The Kaldi Speech Recognition Toolkit,
+,,Authors,Daniel Povey et al.
+,,Citations,
+,,Link,https://publications.idiap.ch/downloads/reports/2011/Povey_Idiap-RR-04-2012.pdf
+,,,
+,2012,Applying Convolutional Neural Networks concepts to hybrid NN-HMM model for speech recognition. IEEE Int Conf,
+,,Authors,Abdel-Hamid et al.
+,,Citations,467
+,,Link,https://ieeexplore.ieee.org/document/6288864
+,,,
+,2011,Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition,
+,,Authors,Dahl et al.
+,,Citations,1930
+,,Link,https://ieeexplore.ieee.org/document/5740583?part=1
+,,,
+,2010,Front-end factor analysis for speaker verification. IEEE Transact Audio Speech Lang Process,
+,,Authors,Dehak et al.
+,,Citations,2152
+,,Link,https://ieeexplore.ieee.org/document/5545402
+,,,
+,2008,Speech recognition with weighted finite-state transducers,
+,,Authors,"Mohri, M., Pereira, F., Riley, M."
+,,Citations,96
+,,Links,https://link.springer.com/chapter/10.1007/978-3-540-49127-9_28
+,,,
+,2006,Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks,
+,,Authors,Graves et al.
+,,Citations,6392
+,,Links,https://www.cs.toronto.edu/~graves/icml_2006.pdf
+,,,
+,2005,Framewise phoneme classification with bidirectional LSTM and other neural network architectures. Neural Networks.,
+,,Authors,Graves & Schmidhuber
+,,Citations,5841
+,,Link,https://www.sciencedirect.com/science/article/abs/pii/S0893608005001206
+,,,
+,1997,A post-processing system to yield reduced word error rates: Recognizer Output Voting Error Reduction (ROVER),
+,,Authors,NIST: JG Fiscus
+,,Citations,408
+,,Link,https://ieeexplore.ieee.org/document/659110/authors#authors
+,,,
+,1996,Unit selection in a concatenative speech synthesis system using a large speech database,
+,,Authors,"AJ Hunt, AW Black"
+,,,
+,1994,Connectionist Speech Recognition: A Hybrid Approach,
+,,Authors,"Herve Bourlard, Nelson Morgan"
+,,Citations,1256
+,,Link,https://www.researchgate.net/publication/230875873_Connectionist_Speech_Recognition_A_Hybrid_Approach
+,,,
+,1991,Review of TDNN (time delay neural network) architectures for speech recognition,
+,,Authors,"M. Sugiyama, H. Sawai, A. Waibel"
+,,Citations,36
+,,Link,https://www.semanticscholar.org/paper/Review-of-TDNN-%28time-delay-neural-network%29-for-Sugiyama-Sawai/073b6128f04fe4b88b88ae297615af289c308753?p2df
+,,,
+,1991,Hidden Markov Models for Speech Recognition,
+,,Authors,"AT&T Bell Labs: LR Rabiner, BH Juang"
+,,Citations,
+,,Link,https://www.jstor.org/stable/1268779
+,,,
+,1989,Phoneme recognition using time-delay neural networks. IEEE Transact,
+,,Authors,"Waibel, Hinton et al."
+,,Citations,2961
+,,Link,https://www.semanticscholar.org/paper/Phoneme-recognition-using-time-delay-neural-Waibel-Hanazawa/cd62c9976534a6a2096a38244f6cbb03635a127e?p2df
+,,,
+,1989,A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition. Proc IEEE,
+,,Authors,L Rabiner
+,,Citations,13699
+,,Link,https://www.semanticscholar.org/paper/A-tutorial-on-hidden-Markov-models-and-selected-in-Rabiner/8fe2ea0a67954f1380b3387e3262f1cdb9f9b3e5?p2df
+,,,
+,1986,Maximum mutual information estimation of hidden Markov model parameters for speech recognition,
+,,Authors,"Bahl, Brown, de Souza, Mercer"
+,,Citations,358
+,,Link,https://ieeexplore.ieee.org/document/1169179
+,,,
+,1986,Heterogeneous Acoustic Measurements and Multiple Classifiers for Speech Recognition,
+,,Authors,Halberstadt
+,,Citations,
+,,Link,https://groups.csail.mit.edu/sls/publications/1998/phdthesis-drew.pdf
+,,,
+,1983,A Maximum Likelihood Approach to Continuous Speech Recognition,
+,,Authors,"Bahl, Jelinek, Mercer"
+,,Citations,643
+,,Link,https://ieeexplore.ieee.org/document/4767370
+,,,
+,,,
+,1983,An introduction to the application of the theory of probabilistic functions of a Markov process to automatic speech recognition,
+,,Authors,"Nokia Bell Labs: Levinson, Rabiner, Sondhi"
+,,Citations,
+,,Link,https://ieeexplore.ieee.org/document/6768244
+,,,
+,,,
+,,,
+,,,
+,,ICASSP - IEEE Conf on Acoustics Speech Signal Processing,

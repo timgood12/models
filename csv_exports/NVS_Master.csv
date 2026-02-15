@@ -1,0 +1,59 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+,Brand,Generic,Indication,MOA,Approved,IP,Admin,Economics,Disposition
+,Diovan,valsartan,HTN,ARB,1996-12-23 00:00:00,9/12/2012,Oral,1,Generic
+,Tekturna,alikersan,HTN,Renin,2007-03-05 00:00:00,2018,Oral,1,Divested
+,Valturna,alikersan+valsartan,HTN,Renin/ARB,2009-09-16 00:00:00,2018,Oral,1,Divested
+,Exforge/HCT,valsartan+amlodipine,HTN,ARB+CCB,/2009,9/12/2012?,Oral,1,Generic
+,Zometa,zoledronic acid,"PMO, Bone Mets",Bisphosphonate,2001,2012?,IV,1,Generic
+,Femara,letrozole,Breast Cancer,Aromatase,1997-07-25 00:00:00,Arimidex,June 2011,Oral,1
+,Exelon,rivastigmine,Alzheimer's,ACE,,,"ANDA tentative approval, P IV. 2012 COM, 2014 Salt, 2019 Transdermal.","Oral, Patch",100%?
+,Foradil,formoterol,"Asthma, COPD",LABA,2001-02-16 00:00:00,Symbicort,2019 Device,Inhaled,EU only
+,Comtan,,Parkinson's,,,,,,1
+,Focalin,,ADHD,,,,Paragraph IV,,CELG
+,"Sebvio, fka LDT600",telbivudine,Hepatitis B,,,Hepsera,,,IDIX
+,Cubicin,daptomycin,MRSA,Antibiotic,2006,Zyvox,,,CBST
+,Aclasta/Reclast,zoledronic acid,Osteoporosis,Biphosphonate,2007,,,IV,1
+,Extavia,interferon beta-1b,Multiple Sclerosis,IFN,2009,Betaseron,De Novo,SC,1
+,Omnitrope,somatropin,GH deficiency,HGH,2006-05-30 00:00:00,Nutropin,Biologic,SC,1
+,Zykadia,ceritinib,,,2014,,,,
+,"Ixario, fka IC51",,JE,Vaccine,3/2009 WW,,Vaccine,SC,ICLL
+,Menveo (oligosaccharide conjugate),,Meningitis ACWY,Vaccine,2010-02-22 00:00:00,"Menactra, Menomune, WYE?",De Novo,SC,1
+,Signifor (SOM230),,"Cushing's Disease, Acromegaly, Carcinoid",,,,,,sold to Recordati
+,,,,,,,,,
+,Small/Old/Failed Products,,,,,,,"Consumer - Prevacid24H, CIBA, Animal",
+,"Elidel (ezcema): 2003-2007: 235m, 349m, 270m, 179m, 176m, 152m.",,,,,,,Diagnostics - Procleix,
+,Tegretol (epilepsy),,,,,,,"Vaccines - Fluad?, TBE, Menveo, Optaflu",
+,"Prexige: 2005-2008: 8m, 47m, 91m, 23m",,,,,,,Sandoz,
+,"Lamisil: 2001-2007: 833m, 874m, 978m, 1162m, 1133m, 978m, 595m",,,,,,,,
+,"Famvir: 2001-2007: 191m, 221m, 233m, 255m, 255m, 268m, 192m",,,,,,,,
+,"Visudyne: 2001-2006: 223m, 286m, 357m, 448m, 484m, 354m",,,,,,,,
+,"Miacalcic: 2001-2007: 419m, 395m, 389m, 377m, 377m, 339m, 281m",,,,,,,,
+,"Zelnorm: 2004-2008: 299m, 418m, 561m, 88m, 10m",,,,,,,"Co owns 6.3% of ROG VX, 43% of IDIX, 49% of NVS India and 54% of Pharma Farm (to be divested)",
+,"Enablex (darifenacin): 179m, 201m, 223m (2007-2009)",,,,,,,,
+,LIC447 (bipolar),,,,,,,,
+,OPC759 (dry eye),,,,,,,,
+,"Lescol (fluvastatin, TEVA/MYL/PRX tentative approvals.)",,,,,,,,
+,Leponex,,,,,,,,
+,Lamisil,terbinafine,,,,,,,
+,Starlix,,,,,,,,
+,Tifacogin,,,,,,,,
+,PTK787,,,,,,,,
+,PTZ601 (SSTI),,,,,,,,
+,LCI699 (HF),,,,,,,,
+,EPO906 (ovarian),,,,,,,,
+,Mycograb,,,,,,,,
+,Albuferon,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,XND183,,Depression,,,,,,
+,CJM112,Psoriasis,IL-17A/AF mab,,,,,,
+,Alisporivir,Hepatitis C,Cycophilin,II,De Novo,Oral,Debiopharm,,
+,NIM811,Hepatitis C,Cycophilin,II,De Novo,Oral,1,,
+,Valdoxan AGO178 (agomelatine),Depression,Melatonin,III,De Novo,Oral,Servier,,
+,INC424,Myelofibrosis,JAK1/2,III,NCE,Oral,INCY,,
+,NIZ985,Oncology,IL-15,I,,,,,
+,MBG453 (sabatolimab),Oncology,TIM-3,,,,,,
+,"VDT482 (tislelizumab, BGB-A317)",Oncology,PD-1,,,,BGNE,,
+,PPY988 (GT005),GA,CFI AAV,,,,Gyroscope (Syncona),,

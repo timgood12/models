@@ -1,0 +1,33 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,Name,Authors,Type,Github,Stars,Notes,Link
+,LangChain,,,https://github.com/hwchase17/langchain,58300,,
+,LLaMA.cpp,Gerganov,,https://github.com/ggerganov/llama.cpp,37800,,
+,DeepSpeed,Microsoft,,https://github.com/microsoft/DeepSpeed,27600,,
+,Alpaca,Stanford,,https://github.com/tatsu-lab/stanford_alpaca,26300,,
+,FastChat,,,https://github.com/lm-sys/FastChat,26100,,
+,Alpaca-Lora,,,https://github.com/tloen/alpaca-lora,16700,Text-davinci-003 teacher on LLaMa,
+,Unlim,,,https://github.com/microsoft/unilm,14900,"Large-scale, self-supervised pre-training",
+,GPT-3,OpenAI,,https://github.com/openai/gpt-3/tree/master,15300,,
+,Dalai,,,https://github.com/cocktailpeanut/dalai,12600,,
+,H2O GPT,,,https://github.com/h2oai/h2ogpt,6700,,
+,Generative Agents,,,https://github.com/joonspk-research/generative_agents,5100,,
+,vLLM,,,https://github.com/vllm-project/vllm,5000,,
+,WizardLM,,,https://github.com/nlpxucan/WizardLM,4600,,
+,LM Evaluation Harness,,,https://github.com/EleutherAI/lm-evaluation-harness/tree/v0.3.0,2100,,
+,Koala,,,https://github.com/young-geng/EasyLM/tree/main,1900,,https://bair.berkeley.edu/blog/2023/04/03/koala/
+,AlpacaDataCleaned,,,https://github.com/gururise/AlpacaDataCleaned/,1200,,
+,Soundstorm-Pytorch,,Audio,https://github.com/lucidrains/soundstorm-pytorch,967,,
+,Alpaca-Eval,,,https://github.com/tatsu-lab/alpaca_eval,512,,
+,Libri-Light,,,https://github.com/facebookresearch/libri-light,391,,https://ai.meta.com/tools/libri-light/
+,Soundstorm,Google,,https://google-research.github.io/seanet/soundstorm/examples/,,,
+,CUDA-Convnet,,,http://code.google.com/p/cuda-convnet/.,,,
+,AlpaGasus,,,https://lichang-chen.github.io/AlpaGasus/,,,
+,GPT4All,"Yuvanesh Anand, Zach Nussbaum, Brandon Duderstadt, Benjamin Schmidt, Andriy Mulyar",,https://huggingface.co/datasets/nomic-ai/gpt4all-j-prompt-generations/tree/main/data,,,
+,GPT-J,,,https://huggingface.co/EleutherAI/gpt-j-6b,,,
+,Vicuna,,,https://huggingface.co/lmsys/vicuna-13b-delta-v1.1,,,https://lmsys.org/blog/2023-03-30-vicuna/
+,Stable Beluga 2,,,https://huggingface.co/stabilityai/StableBeluga2,,,
+,Alpaca-Lora-65B,,,https://huggingface.co/chansung/alpaca-lora-65b/tree/main,,,
+,Dolly,,,https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm,,,
+,StyleTTS2,,,https://github.com/yl4579/StyleTTS2,,,
+,Speechmetrics,,,https://github.com/aliutkus/speechmetrics,,,
+,Spleeter,,,,,,

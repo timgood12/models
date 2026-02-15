@@ -1,0 +1,19 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,Brand,Elahere,,,
+,Generic,mirvetuximab soravtansine,,,
+,Pricing,$6220 20ml vial; 5mg/1ml,,,100mg
+,Approval,Available 11/14/22,,,
+,Indication,"Ovarian cancer, 70-80% express folate receptor",,,
+,,,,,
+,,,,,
+,,15000,US+EU,60.0,kg
+,,10500,FRalpha,6.0,mg/kg
+,,8400,market share,360.0,mg
+,,2520,responders,100.0,mg/vial
+,,526659.84,revenue,3.6,vials
+,,,,6220.0,price/vial
+,,,,22392.0,price/dose
+,,,,2.0,doses/non-responder
+,,,,44784.0,70% non-responders
+,,,,9.333333333333334,doses/responder
+,,,,208992.0,30% responders

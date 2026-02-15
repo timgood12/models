@@ -1,0 +1,26 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,Brand,,,
+,Generic,rezpegaldesleukin,,
+,Indication,Atopic Dermatitis,,
+,Mechanism,IL-2,,
+,,,,
+,,,,
+,,,,
+,Dupixent,EASI75,300mg q2w,0.51
+,Dupixent,EASI75,300mg qw,0.53
+,Placebo,EASI75,placebo,0.15
+,Dupixent,EASI75,300mg q2w,0.47
+,Dupixent,EASI75,300mg qw,0.44
+,Placebo,EASI75,placebo,0.12
+,upadacitinib 15mg,EASI75,,0.601
+,upadacitinib 30mg,EASI75,,0.729
+,placebo,EASI75,,0.133
+,,EASI50,placebo,0.3
+,,EASI50,low dose,0.69
+,,EASI50,high dose,0.71
+,,EASI75,placebo,0.2
+,,EASI75,low dose,0.25
+,,EASI75,high dose,0.41
+,,EASI90,placebo,0.2
+,,EASI90,low dose,0.125
+,,EASI90,high dose,0.235

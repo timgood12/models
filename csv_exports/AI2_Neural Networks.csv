@@ -1,0 +1,18 @@
+Main,Unnamed: 1
+,Conv1d
+,
+,AdaIN (Adaptive Instance Normalization)
+,
+,AdaNorm (Adaptive Normalization)
+,
+,H-Transformer-1D
+,
+,ResBlock
+,
+,Attention
+,
+,FeedForward
+,
+,GEGLU
+,
+,Transformer

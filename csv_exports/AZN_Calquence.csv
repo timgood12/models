@@ -1,0 +1,34 @@
+Main,Unnamed: 1,Unnamed: 2
+,Brand,Calquence
+,Generic,acalabrutinib
+,Indication,"MCL, 1L CLL"
+,IP,Settled with 5 ANDA filers.
+,,OSI patent: 7459554 expires 2026
+,,COM patent 9290504 expires 2032
+,,
+,Clinical Trials,
+,,"Phase III ""ECHO"" 1L MCL - Calquence with bendamustine+rituximab vs. SOC - EHA2024"
+,,met PE: PFS HR=0.73
+,,"OS HR=0.86, p=0.2743"
+,,
+,,"Phase III ""ELEVATE-TN"" 1L CLL"
+,,
+,,
+,,"""ACE-LY-004"" R/R MCL"
+,,EU approved
+,,
+,,
+,,"""ChangE"" CLL/SLL"
+,,China approved
+,,
+,,
+,US,1048
+,EM,75
+,EU,320
+,ROW,65
+,Total,1508
+,,
+,US,0.6949602122015915
+,EM,0.04973474801061008
+,EU,0.21220159151193635
+,ROW,0.04310344827586207

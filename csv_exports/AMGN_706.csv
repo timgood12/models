@@ -1,0 +1,63 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3
+,Brand Name,AMG706,
+,Generic Name,motesanib diphosphate,
+,Mechanism,"VEGF-R1-R2-R3, c-Kit, Ret and PDGF-R intracellcular antagonist. Tie-2??? No inhibition?",
+,,"IC50: VEGF-R1: 3nM, R-2: 3nM, R-3: 6nM, RET: 91mM, c-Kit: 8nM, PDGF-R: 207nM",
+,,Works extremely well against Glivec-resistant tumors in xenograft PCs,
+,Chemistry,47 other kinases are not inhibited by AMG706 at less than 1 UM. C-Kit profile similar to Glivec,
+,Administration,Oral,
+,Clinical Trials,,
+,,"Phase 3 1L NSCLC (chemo +-706) in 2H07 (was Q107, Q406) - expect data in 2010",
+,,n=1250 - halted due to mortality in 706 group.,
+,,,
+,,Phase 2 metastatic thyroid cancer - Enrollment completed in April 2006 - Published NEJM 2008,
+,,"n=184, open-label, uncontrolled, multi-center.",
+,,"May provide a registration pathway, however Zactima may also file in mTC.",
+,,  Efficacy data under review according to Amgen. Data to be published in Q2 2007 (was originally early 2007).,
+,,"  Company noted ""clear evidence of biological activity"".",
+,,BRAF V600E gene showed tumor response.,
+,,,
+,,"2 Phase 2 AMG706 vs Avastin in NSCLC - late 2006 or early 2007 initiation - one with patients eligible for Avastin, one without",
+,,"n=180, enrollment starting in Q1 2007, data in 2008",
+,,,
+,,Phase 2 AMG706 vs Avastin in 1L HER2- BC,
+,,"n=275, Enrolling as of Q4 2006, data in 2008.",
+,,,
+,,Phase 1 First In Human in n=43 advanced solid tumors - Roy Herbst at MD Anderson,
+,,Baseline,"6 colorectal, 5 sarcoma, 4 breast/gist/ovarian/thyroid/nsclc, 12 other"
+,,Dosage,"50mg, 100mg, 125mg, 175mg qd or 25mg bid for 21 days in 28 day cycles. 125mg in continuous dosing regimen."
+,,MTD,Well-tolerated up to 125mg QD using intermittent schedule
+,,Safety,"mostly mild-to-moderate in severity and reversible. 58% did not experience SAE or DLT. 72% experienced an AE. 35% fatigue, 23% headache, some HTN"
+,,Efficacy,34/43 reached day 50 tumor assessment
+,,,"2 PRs (leiomyosarcoma, thyroid), 4 MRs (GIST, thyroid, breast and carcinoid; 8-29% reduction in longest diameter), 14 SDs. 20/34 DCR."
+,,,6 maintained SD for at least 134 days. 3 maintained SD for at least 218 days.
+,,PK,"favorable exposure, 7hrs T1/2; no accumulation during first 3 weeks."
+,,,"Day 1: Cmax  417ng/mL +- 92, T1/2 6.98hr +- 1.92, CL/F 50.1+-22.2, C24 29.3+-21.9, AUC 0-24, 2.84+-0.99"
+,,,"Day 21: Cmax 425 +-249, T1/2 5.05+- 2.24, Cl/F 101 +-43, C24 11.7 +- 12.9, AUC 1.55 +-0.96"
+,,,
+,,Phase 1 thyroid cancer dose-finding study,
+,,3 PRs out of 7 - p2 ongoing and fully enrolled (started in 2005) #3030,
+,,,
+,,Phase 1/2 AMG706+Pmab+Carboplatin+Paclitaxel in 1L/2L NSCLC,
+,,"n=55, Data in 2007",
+,,,
+,,"Phase 1b Open-Label, Dose-Finding AMG706+Pmab+Gem+Cis for 1L or 2L therapy (more than 1 prior chemo is exclusion)",
+,,Phase 1b AMG706+Pmab+FOLFIRI/FOLFOX4 in 1L/2L mCRC,
+,,,
+,,BC 1L + chemo,
+,,ASCO 2006: p1 of pmab+706 and chemo in nsclc,
+,,,
+,,authorities would like to see study broadened to understand 706 in NSCLC circumstances beyond those currently treated by Avastin,
+,,,thus Avastin cannot be used as a global comparator
+,,"PK of 706, pmab and carbo/tax for NSCLC - asco 2006 abstract title",
+,,,
+,,GIST Phase II Data,
+,,Interim GIST data became available during Q2 and will be presented in Q4. Evidence of clinical activity but median follow-up only ten months and median survival was not reached at that point.,
+,,Cholecystitis and gall bladder enlargement observed - 2-3% of patients have developed this.,
+,,"Connective Tissue Oncology Society (CTOS) meeting in Venice, Italy 2006. Robert Benjamin - MD Anderson",
+,,  n=138 imatinib-refractory received 125mg qd until PD or tox. 120 protocol eligible,
+,,"  RECIST, FDG-PET and Choi criteria were measured.",
+,,"27% benefit rate, 3 PR and 24 SD>= 22 weeks. At week 8, 23% OR by FDG-PET, 33% OR by Choi. Median PFS 16wks, 26-week PFS of 27%, MOS 59 weeks.",
+,,"55% diarrhea, 48% HTN, 45% fatigue, 47% headache, 35% nausea",
+,,,
+,,Phase 3 pancreatic cancer study was planned for Q107?,

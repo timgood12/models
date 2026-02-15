@@ -1,0 +1,514 @@
+Main,Unnamed: 1,Unnamed: 2
+,Title,"Decoherence, CONTINUOUS OBSERVATION, AND QUANTUM COMPUTING - A CAVITY QED MODEL"
+,Author,"PELLIZZARI, T; GARDINER, SA; (...); ZOLLER, P"
+,Journal,Phys Rev Lett
+,Citations,729
+,Date,1995-11-20 00:00:00
+,Notes,
+,,
+,Title,Elementary Gates for Quantum Computing
+,Author,"Adriano Barenco, Charles Bennett, Richard Cleve, David DiVincenzo, Norman Margolus, Peter Shor, Tycho Sleator, John Smolin, Harald Weinfurter"
+,Journal,Phys Rev A
+,Citations,3036
+,Date,1995-11-01 00:00:00
+,Link,https://arxiv.org/abs/quant-ph/9503016
+,Notes,
+,,
+,Title,Multiple-particle interference and quantum error correction
+,Author,A Steane
+,Journal,Proc Roy Soc A
+,Citations,1078
+,Date,1996-11-08 00:00:00
+,Notes,
+,,
+,Title,Bulk spin-resonance quantum computation
+,Author,"Gershenfeld, NA and Chuang, IL"
+,Journal,Science
+,Citations,1389
+,Date,1997-01-17 00:00:00
+,Notes,
+,,
+,Title,Ensemble quantum computing by NMR spectroscopy
+,Author,"Cory, DG; Fahmy, AF and Havel, TF"
+,Journal,PNAS
+,Citations,837
+,Date,1997-03-04 00:00:00
+,Notes,
+,,
+,Title,Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer
+,Author,Peter Shor
+,Journal,Siam J Comput
+,Citations,5396
+,Date,1997-10-01 00:00:00
+,Notes,The paper that started it all.
+,,
+,Title,Quantum complexity theory
+,Author,"Bernstein, E and Vazirani, U"
+,Journal,Siam J Comput
+,Citations,985
+,Date,1997-10-01 00:00:00
+,Notes,
+,,
+,Title,Strengths and weaknesses of quantum computing
+,Author,"Bennett, CH; Bernstein, E; (...); Vazirani, U"
+,Journal,Siam J Comput
+,Citations,785
+,Date,1997-10-01 00:00:00
+,Notes,
+,,
+,Title,Quantum computations: algorithms and error correction
+,Author,"Kitaev, AY"
+,Journal,"Russ Math Surveys 1997, Volume 52, Issue 6, 1191-1249"
+,Citations,849
+,Date,1997
+,Notes,
+,,
+,Title,Quantum computation with quantum dots.
+,Author,"Loss, D & DiVincenzo DP"
+,Journal,Phys Rev A
+,Citations,5997
+,Date,1998-01-01 00:00:00
+,Notes,The first IBM quantum computing experiment.
+,,
+,Title,Quantum algorithms revisited
+,Author,"Cleve, R; Ekert, A; (...); Mosca, M"
+,Journal,Proc Roy Soc A
+,Citations,707
+,Date,1998-01-08 00:00:00
+,Notes,
+,,
+,,
+,Title,Quantum Computing
+,Author,A Steane
+,Journal,Rep Prog Phys
+,Citations,1044
+,Date,1998-02-01 00:00:00
+,Notes,
+,,
+,Title,Tight bounds on quantum searching
+,Author,"Boyer, M; Brassard, G; (...); Tapp, A"
+,Journal,Fort Der Physik - Progress of Physics
+,Citations,713
+,Date,1998
+,Notes,
+,,
+,Title,Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer
+,Author,Peter Shor
+,Journal,SIAM Review
+,Citations,1190
+,Date,1999-06-01 00:00:00
+,Notes,
+,,
+,Title,Josephson persistent-current qubit
+,Author,"Mooij, JE; Orlando, TP; (...); Lloyd, S"
+,Journal,Science
+,Citations,1070
+,Date,1999-08-13 00:00:00
+,Notes,
+,,
+,Title,Geometric quantum computation using nuclear magnetic resonance
+,Author,"Jones, JA; Vedral, V; (...); Castagnoli, G"
+,Journal,Nature
+,Citations,717
+,Date,2000-02-24 00:00:00
+,Notes,
+,,
+,Title,Electron-spin-resonance transistors for quantum computing in silicon-germanium heterostructures
+,Author,"Vrijen, R; Yablonovitch, E; (...); DiVincenzo, D"
+,Journal,Phys Rev A
+,Citations,740
+,Date,2000-07-01 00:00:00
+,Notes,
+,,
+,Title,The physical implementation of quantum computation
+,Author,DP DiVincenzo
+,Journal,Fort Der Physik Prog Phys
+,Citations,1695
+,Date,2000
+,Notes,
+,,
+,Title,A scheme for efficient quantum computation with linear optics
+,Author,"Knill, E; Laflamme, R and Milburn, GJ"
+,Journal,Nature
+,Citations,4726
+,Date,2001-01-04 00:00:00
+,Notes,
+,,
+,Title,Quantum computing in molecular magnets
+,Author,"Leuenberger, MN and Loss, D"
+,Journal,Nature
+,Citations,2670
+,Date,2001-04-12 00:00:00
+,Notes,
+,,
+,Title,A quantum adiabatic evolution algorithm applied to random instances of an NP-complete problem
+,Author,"Farhi, E; Goldstone, J; (...); Preda, D"
+,Journal,Science
+,Citations,1514
+,Date,2001-04-20 00:00:00
+,Notes,
+,,
+,Title,Encoding a qubit in an oscillator
+,Author,"Gottesman, D; Kitaev, A and Preskill, J"
+,Journal,Phys Rev A
+,Citations,998
+,Date,2001-07-01 00:00:00
+,Notes,
+,,
+,Title,Topological quantum memory
+,Author,"Dennis, E; Kitaev, A; (...); Preskill, J"
+,Journal,J Math Phys
+,Citations,1379
+,Date,2002-09-01 00:00:00
+,Notes,
+,,
+,Title,Quantum-inspired evolutionary algorithm for a class of combinatorial optimization
+,Author,KH Han & JH Kim
+,Journal,IEEE Transact Evol Comput
+,Citations,1036
+,Date,2002-12-01 00:00:00
+,Notes,
+,,
+,Title,Fault-tolerant quantum computation by anyons
+,Author,Alex Kitaev
+,Journal,Ann Physics
+,Citations,7108
+,Date,2003-01-01 00:00:00
+,Notes,
+,,
+,Title,Coherent quantum dynamics of a superconducting flux qubit
+,Author,"Chiorescu, I; Nakamura, Y; (...); Mooij, JE"
+,Journal,Science
+,Citations,1047
+,Date,2003-03-21 00:00:00
+,Notes,
+,,
+,Title,Quantum random-walk search algorithm
+,Author,"Shenvi, N; Kempe, J and Whaley, KB"
+,Journal,Phys Rev A
+,Citations,863
+,Date,2003-05-01 00:00:00
+,Notes,
+,,
+,Title,Quantum random walks: an introductory overview
+,Author,Julia Kempe
+,Journal,Contemp Phys
+,Citations,1213
+,Date,Q3 2003
+,Notes,
+,,
+,Title,Demonstration of an all-optical quantum controlled-NOT gate
+,Author,"O'Brien, JL; Pryde, GJ; (...); Branning, D"
+,Journal,Nature
+,Citations,777
+,Date,2003-11-20 00:00:00
+,Notes,
+,,
+,Title,Cavity quantum electrodynamics for superconducting electrical circuits: An architecture for quantum computation
+,Author,"Blais, A; Huang, RS; (...); Schoelkopf, RJ"
+,Journal,Phys Rev A
+,Citations,2453
+,Date,2004-06-01 00:00:00
+,Notes,
+,,
+,Title,Quantum computing with realistically noisy devices
+,Author,E Knill
+,Journal,Nature
+,Citations,863
+,Date,2005-03-03 00:00:00
+,Notes,
+,,
+,Title,Experimental one-way quantum computing
+,Author,"Walther, P; Resch, KJ; (...); Zeilinger, A"
+,Journal,Nature
+,Citations,1026
+,Date,2005-03-10 00:00:00
+,Notes,
+,,
+,,
+,Title,Linear optical quantum computing with photonic qubits
+,Author,"Kok, P; Munro, WJ; (...); Milburn, GJ"
+,Journal,Rev Mod Phys
+,Citations,2193
+,Date,Q1 2007
+,Notes,
+,,
+,Title,Optical quantum computing
+,Author,JL O'Brien
+,Journal,Science
+,Citations,902
+,Date,2007-12-07 00:00:00
+,Notes,
+,,
+,Title,Randomized benchmarking of quantum gates
+,Author,"Knill, E; Leibfried, D; (...); Wineland, DJ"
+,Journal,Phys Rev A
+,Citations,698
+,Date,2008-01-01 00:00:00
+,Notes,
+,,
+,Title,Superconducting quantum bits
+,Author,"Clarke, J and Wilhelm, FK"
+,Journal,Nature
+,Citations,1599
+,Date,2008-06-19 00:00:00
+,Notes,
+,,
+,Title,Experimental Quantum Computing without Entanglement
+,Author,"Lanyon, BP; Barbieri, M; (...); White, AG"
+,Journal,Phys Rev Lett
+,Citations,784
+,Date,2008-11-14 00:00:00
+,Notes,
+,,
+,Title,Quantum computing with trapped ions
+,Author,"Haffner, H; Roos, CF and Blatt, R"
+,Journal,Phys Reports-Rev Sect Phys Lett
+,Citations,877
+,Date,2008-12-01 00:00:00
+,Notes,
+,,
+,Title,Universal Computation by Quantum Walk
+,Author,AM Childs
+,Journal,Phys Rev Lett
+,Citations,785
+,Date,2009-05-08 00:00:00
+,Notes,
+,,
+,Title,Demonstration of two-qubit algorithms with a superconducting quantum processor
+,Author,"DiCarlo, L; Chow, JM; (...); Schoelkopf, RJ"
+,Journal,Nature
+,Citations,928
+,Date,2009-07-09 00:00:00
+,Notes,
+,,
+,Title,"On Lattices, Learning with Errors, Random Linear Codes, and Cryptography"
+,Author,O Regev
+,Journal,J ACM
+,Citations,2202
+,Date,2009-09-01 00:00:00
+,Notes,
+,,
+,Title,Quantum algorithm for linear systems of equations
+,Author,"Aram W. Harrow, Avinatan Hassidim, and Seth Lloyd (Bristol, MIT, MIT)"
+,Journal,arXiv
+,Citations,
+,Date,2009-09-30 00:00:00
+,Notes,
+,,
+,Title,Optical quantum memory
+,Author,"Lvovsky, AI; Sanders, BC and Tittel, W"
+,Journal,Nat Photonics
+,Citations,1152
+,Date,2009-12-01 00:00:00
+,Notes,
+,,
+,Title,Quantum Computers
+,Author,"Ladd, TD; Jelezko, F; (...); O'Brien, JL"
+,Journal,Nature
+,Citations,2785
+,Date,2010-03-04 00:00:00
+,Notes,
+,,
+,Title,Quantum computing with defects
+,Author,"Weber, JR; Koehl, WF; (...); Awschalom, DD"
+,Journal,PNAS
+,Citations,646
+,Date,2010-05-11 00:00:00
+,Notes,
+,,
+,Title,14-Qubit Entanglement: Creation and Coherence
+,Author,"Monz, T; Schindler, P; (...); Blatt, R"
+,Journal,Phys Rev Lett
+,Citations,891
+,Date,2011-03-31 00:00:00
+,Notes,
+,,
+,Title,Surface codes: Towards practical large-scale quantum computation
+,Author,"Fowler, AG; Mariantoni, M; (...); Cleland, AN"
+,Journal,Phys Rev A
+,Citations,1885
+,Date,2012-09-18 00:00:00
+,Notes,
+,,
+,Title,Quantum walks: a comprehensive overview
+,Author,SE Venegas-Andraca
+,Journal,Quant Info Proc
+,Citations,756
+,Date,2012-10-01 00:00:00
+,Notes,
+,,
+,Title,Superconducting quantum circuits at the surface code threshold for fault tolerance
+,Author,"Barends, R; Kelly, J; (...); Martinis, JM"
+,Journal,Nature
+,Citations,1344
+,Date,2014-04-24 00:00:00
+,Notes,
+,,
+,Title,"Colloquium: Majorana fermions in nuclear, particle, and solid-state physics"
+,Author,"Elliott, SR and Franz, M"
+,Journal,Rev Mod Phys
+,Citations,711
+,Date,2015-02-11 00:00:00
+,Notes,
+,,
+,Title,State preservation by repetitive error detection in a superconducting quantum circuit
+,Author,"Kelly, J; Barends, R; (...); Martinis, JM"
+,Journal,Nature
+,Citations,706
+,Date,2015-03-05 00:00:00
+,Notes,
+,,
+,Title,An introduction to quantum machine learning
+,Author,"Schuld, M; Sinayskiy, I and Petruccione, F"
+,Journal,Contemp Phys
+,Citations,687
+,Date,2015-04-03 00:00:00
+,Notes,
+,,
+,Title,A two-qubit logic gate in silicon
+,Author,"Veldhorst, M; Yang, CH; (...); Dzurak, AS"
+,Journal,Nature
+,Citations,732
+,Date,2015-10-15 00:00:00
+,Notes,
+,,
+,Title,The theory of variational hybrid quantum-classical algorithms
+,Author,"McClean, JR; Romero, J; (...); Aspuru-Guzik, A"
+,Journal,New J Physics
+,Citations,1460
+,Date,2016-02-05 00:00:00
+,Notes,
+,,
+,Title,Scalable Quantum Simulation of Molecular Energies
+,Author,"O'Malley, PJJ; Babbush, R; (...); Martinis, JM"
+,Journal,Phys Rev X
+,Citations,843
+,Date,2016-07-18 00:00:00
+,Notes,
+,,
+,Title,Efficient Variational Quantum Simulator Incorporating Active Error Minimization
+,Author,"Li, Y and Benjamin, SC"
+,Journal,Phys Rev X
+,Citations,691
+,Date,2017-06-29 00:00:00
+,Notes,
+,,
+,Title,Quantum Machine Learning
+,Author,"Biamonte, J; Wittek, P; (...); Lloyd, S"
+,Journal,Nature
+,Citations,2477
+,Date,2017-09-14 00:00:00
+,Notes,
+,,
+,Title,Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets
+,Author,"Kandala, A; Mezzacapo, A; (...); Gambetta, JM"
+,Journal,Nature
+,Citations,2018
+,Date,2017-09-14 00:00:00
+,Notes,
+,,
+,Title,Observation of a many-body dynamical phase transition with a 53-qubit quantum simulator
+,Author,"Zhang, J; Pagano, G; (...); Monroe, C"
+,Journal,Nature
+,Citations,828
+,Date,2017-11-30 00:00:00
+,Notes,
+,,
+,Title,Quantum information processing with superconducting circuits: a review
+,Author,G Wendin
+,Journal,Rep Prog Phys
+,Citations,689
+,Date,2017-10-01 00:00:00
+,Notes,
+,,
+,Title,Adiabatic quantum computation
+,Author,"Albash, T and Lidar, DA"
+,Journal,Rev Mod Phys
+,Citations,984
+,Date,2018-01-29 00:00:00
+,Notes,
+,,
+,Title,Characterizing quantum supremacy in near-term devices
+,Author,"Boixo, S; Isakov, SV; (...); Neven, H"
+,Journal,Nat Physics
+,Citations,762
+,Date,2018-06-01 00:00:00
+,Notes,
+,,
+,Title,Majorana quantization and half-integer thermal quantum Hall effect in a Kitaev spin liquid
+,Author,"Kasahara, Y; Ohnishi, T; (...); Matsuda, Y"
+,Journal,Nature
+,Citations,706
+,Date,2018-07-12 00:00:00
+,Notes,
+,,
+,Title,Quantum Computing in the NISQ era and beyond
+,Author,John Preskill
+,Journal,Quantum
+,Citations,4897
+,Date,2018-08-06 00:00:00
+,Notes,
+,,
+,Title,Quantum Machine Learning in Feature Hilbert Spaces
+,Author,"Schuld, M and Killoran, N"
+,Journal,Phys Rev Lett
+,Citations,822
+,Date,2019-02-01 00:00:00
+,Notes,
+,,
+,Title,Trapped-ion quantum computing: Progress and challenges
+,Author,"Bruzewicz, CD; Chiaverini, J; (...); Sage, JM"
+,Journal,Appl Phys Rev
+,Citations,895
+,Date,2019-06-01 00:00:00
+,Notes,
+,,
+,Title,Quantum computational advantage using photons
+,Author,"Zhong, HS; Wang, H; (...); Pan, JW"
+,Journal,Science
+,Citations,1619
+,Date,2020-12-18 00:00:00
+,Notes,
+,,
+,Title,Advances in quantum cryptography
+,Author,"Pirandola, S; Andersen, UL; (...); Wallden, P"
+,Journal,Adv Opt Photon
+,Citations,1151
+,Date,2020-12-31 00:00:00
+,Notes,
+,,
+,Title,Superconducting Qubits: Current State of Play
+,Author,"Kjaergaard, M; Schwartz, ME; (...); Oliver, WD"
+,Journal,Ann Rev Cond Matt Phys
+,Citations,969
+,Date,2020
+,Notes,
+,,
+,Title,Quantum phases of matter on a 256-atom programmable quantum simulator
+,Author,"Ebadi, S; Wang, TT; (...); Lukin, MD"
+,Journal,Nature
+,Citations,677
+,Date,2021-07-08 00:00:00
+,Notes,
+,,
+,Title,Variational quantum algorithms
+,Author,"Cerezo, M; Arrasmith, A; (...); Coles, PJ"
+,Journal,Nat Rev Phys
+,Citations,1651
+,Date,2021-09-01 00:00:00
+,Notes,
+,,
+,Title,Strong Quantum Computational Advantage Using a Superconducting Quantum Processor
+,Author,"Wu, YL; Bao, WS; (...); Pan, JW"
+,Journal,Phys Rev Lett
+,Citations,635
+,Date,2021-10-25 00:00:00
+,Notes,
+,,
+,Title,Noisy intermediate-scale quantum algorithms
+,Author,"Bharti, K; Cervera-Lierta, A; (...); Aspuru-Guzik, A"
+,Journal,Rev Mod Phys
+,Citations,903
+,Date,2022-02-15 00:00:00
+,Notes,

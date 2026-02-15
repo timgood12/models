@@ -1,0 +1,9 @@
+Main,Unnamed: 1,Unnamed: 2
+,"Diffie, Whitfield",PKC pioneer: introduced with Martin Hellman in 1976.
+,"Hellman, Martin",PKC pioneer: introduced with Whitfield Diffie in 1976.
+,knapsack problem,
+,"Merkle, Ralph",Cryptography pioneer
+,Merkle-Hellman knapsack cryptosystem,Introduced in 1978. Shamir broke it in 1984.
+,one-way function,"When introducing PKC, Diffie-Hellman did not have an example one-way function!"
+,"Ong, Schnorr, Shamir cryptosystem",X^2 - KY^2 = M (mod n). Pollard broke it
+,"Shamir, Adi",RSA in 1977.

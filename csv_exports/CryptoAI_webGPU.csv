@@ -1,0 +1,9 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2
+,w3.org/TR/webgpu,
+,Last updated 4/2/2024,
+,github.com/gpuweb,
+,webgpu.io,
+,,
+,GPUAdapter,physical hardware
+,GPUDevice,"connects to Adapter, manages Queues"
+,GPUQueue,executes commands

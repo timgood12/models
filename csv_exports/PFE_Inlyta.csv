@@ -1,0 +1,58 @@
+Main,Unnamed: 1,Unnamed: 2
+,Brand Name,"Inylta, fka AG-013736"
+,Generic Name,axitinib
+,Indication,Oncology 
+,Status,"P3 - Thyroid, Pancreatic"
+,,"P2 - Lung, Gastrointestinal, Breast, Melanoma"
+,Mechanism,"VEGFr/PDGFr kinase inhibitor. Picomolar potency at VEGFR1,2,3. Nanomolar potent at PDGFR-beta and kit."
+,Economics,
+,Competition,Doxorubicin (Thyroid)
+,History,Agouron?
+,IP,"http://www.wipo.int/pctdb/en/fetch.jsp?LANG=ENG&DBSELECT=PCT&SERVER_TYPE=19&SORT=1205778-KEY&TYPE_FIELD=256&IDB=0&IDOC=974492&C=00&ELEMENT_SET=BASICHTML-ENG&RESULT=1&TOTAL=1&START=1&DISP=25&FORM=SEP-0/HITNUM,B-ENG,DP,MC,PA,ABSUM-ENG&SEARCH_IA=US2000018263&QUERY=WO%2f2001%2f002369"
+,,http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=20060094881&OS=20060094881&RS=20060094881
+,Clinical Trials,
+,,Phase III 2L mCRC head-to-head against Nexavar n=540
+,,To be started June 2008. Primary endpoint is PFS.
+,,
+,,Phase III Gemcitabine +- Axitinib for Advanced Pancreatic Cancer - Began 08/07
+,,"n=596 1L, Primary Endpoint is OS."
+,,  Total of 596 patients and 460 events are required for a log rank test to have an overall 1 sided significance level of 0.025 and power of 0.90. Source: clinicaltrials.gov.
+,,
+,,Phase II FOLFOX+Axitinib vs FOLFOX+Avastin vs FOLFOX+Axitinib+Avastin in mCRC - Began 01/06
+,,n=123 1L???
+,,Primary Endpiont: Estimate objective response rate in previously untreated patients with advanced colorectal cancer 
+,,"Secondary Endpoint: maximum tolerated doses, safety, PK interactions, adverse event and toxicities, survival, progression-free survival"
+,,
+,,P2 Axinitib in patients with Doxorubicin-refractory or intolerant Thyroid Cancer - began 12/06
+,,Efficacy of Axitinib in shrinking thyroid cancer that is resistant to radioactive iodine and doxorubicin.
+,,"n = 100 , 5mg pill x2 a day. CT scans regularly to assess shrinkage of tumor."
+,,Primary Endpoints - objective response rate
+,,"Secondary Endpoints - safety profile, progression-free survival, duration of response, overall survival, PRO"
+,,
+,,"P1 Dose finding Axitinib plus Paclitaxel/Carboplatin, plus weekly Paclitaxel, plus Docetaxel, plus Capecitabine, plus Gemcitabine/Cisplatin - began 12/05"
+,,Advanced solid tumors
+,,"n = 62 , 24 month enrollment"
+,,Non randomized
+,,Primary Endpoint: MTD of Axitinib in combinations of various standard of care treatements.
+,,Secondary Endpoint: PK parameters of Axitinib and various agents while evaluating safety profiles and responses.
+,,
+,,"Phase II RCC n=52, cytokine refractory."
+,,"n=52, most clear cell histology and undergone prior nephrectomy. "
+,,24/52 (46%) PR - Rini et al ASCO 2005. PR by RECIST--who assessed?
+,,"21/51 (40%) SD, 20/51 (38%) with tumor shrinkage."
+,,"7/52 (14%) No response (8% progression, 6% indeterminate)."
+,,Compare to Avastin/Nexavar.
+,,Sutent label in 1L had 27.5% RR. IFN-alpha had 5.3% RR. N=375 each. Assessed by blind lab. RECIST criteria?
+,,Sutent label also has 2L n=106 with RR of 34% (assessed by core lab) and 2L n=63 with RR of 36.5% (assessed by investigators).
+,,5mg bid. 6 discontinued due to adverse events. Andy Chen mentions axitinib is safer than sutent???
+,,
+,,Phase II NSCLC
+,,"9% ORR, MOS 15mo"
+,,
+,,Phase I solid tumors n=36
+,,6 patients had RCC
+,,"DLT of hypertension, fatigue, diarrhea. 31% grade 3 hypertension."
+,,
+,,Phase I pancreatic Axitinib+Gemcitabine n=8 rolled into Phase II - Published Lancet 2008
+,,http://www.asco.org/portal/site/ASCO/menuitem.34d60f5624ba07fd506fe310ee37a01d/?vgnextoid=76f8201eb61a7010VgnVCM100000ed730ad1RCRD&vmview=abst_detail_view&confID=40&index=y&abstractID=34861
+,,2 PR and 4 SD.

@@ -1,0 +1,35 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3
+,Brand,Tagrisso,
+,Generic,osimertinib,
+,Indication,EGFRm NSCLC; EU/China/Japan approved 1L with chemo,
+,MOA,EGFR inhibitor,
+,IP,8946235 COM expires 2032,
+,,Puma/Wyeth filed litigation. Wyeth won $107.5m.,
+,Clinical Trials,,
+,,"Phase III ""FLAURA2"" Tagrisso+pemetrexed 1L EGFRm NSCLC exon19 or L858R",
+,,,
+,,,
+,,,
+,,"Phase III ""LAURA"" EGFRm Stage III unresectable NSCLC",
+,,"sNDA accepted, priority review",
+,,"HR=0.16, mPFS 39.1mo vs. 5.6mo for placebo",
+,,,
+,,"Phase III ""FLAURA"" 1L",
+,,,
+,,,
+,,"Phase III ""ADAURA"" adjuvant",
+,,,
+,,,
+,,,
+,,,
+,,1H24,Q125
+,US,1282,678
+,EM,919,519
+,EU,628,307
+,ROW,374,175
+,Total,3203,1679
+,,,
+,US,0.40024976584452077,0.4038117927337701
+,EM,0.2869185138932251,0.30911256700416917
+,EU,0.19606618794879802,0.18284693269803454
+,ROW,0.11676553231345614,0.1042287075640262

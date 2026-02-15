@@ -1,0 +1,39 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,14th-gen desktop - voltage coding error,,,,
+,,,,,
+,,,,,
+,,i9,i7,i5,i3
+,Max Turbo,6,5.6,5.3,4.7
+,Intel Turbo Boost,5.8,5.6,-,-
+,Performance Core Max Turbo Frequency,5.6,5.5,5.1,4.7
+,Efficient-core Max Turbo,4.4,4.3,3.9,-
+,Cores,24,20,14,4
+,P Cores,8,8,6,4
+,Threads,32,28,20,8
+,L3,36,33,24,12
+,,,,,
+,,,,,
+,"i9-14900K, i9-14900KF, i9-14900KS",Raptor Lake Refresh,,Base,3.2
+,i9-13900K,Raptor Lake,,,3.2
+,i9-12900K,Alder Lake,,,3.4
+,,,,,
+,*k = unlocked,,,,
+,*f = no GPU,,,,
+,*s = lower power,,,,
+,,,,,
+,,Speed,Cores,Cache (MB),
+,i9 270H,5800,14,24,
+,i7 251TE,5400,24,36,
+,i7 251E,5600,24,36,
+,i7 250U,5400,10,12,
+,i7 250H,5400,14,24,
+,i7 240H,5200,10,24,
+,i9 14900T,5500,24,36,
+,i9 14900K,6000,24,36,
+,i9 14900KF,6000,24,,
+,i9 14900HX,5800,24,36,
+,i9 14901E,5600,8,,
+,i9 14901KE,5800,8,,
+,Xeon 6745P,4300,32,336,
+,Xeon 6527P,4200,,,
+,Xeon 6944P,3900,72,432,

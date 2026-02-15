@@ -1,0 +1,21 @@
+Main,Unnamed: 1,Unnamed: 2
+,Location,"ER-resident, single transmembrane trimer."
+,Function,"communication between ER and mitochondrion: the ER supplies calcium ions via inositol 1,4,5-trisphosphate receptors (IP3Rs)"
+,,  mitochondrion-associated ER membrane (MAM)
+,,binds to hERG and translocates to membrane
+,,"binds to Kv1.2, IP3R3"
+,Ligands,PD144418 - antagonist
+,,4-IBP - agonist
+,,blarcamesine
+,Structure,Trimer
+,Mutations,ALS
+,,
+,,"Patent says sigma regulates NMDA, dopamine and acetylcholine"
+,,
+,,
+,,Crystal structure of the human sigma1-receptor. Schmidt et al. Nature 2016.
+,,Single transmembrane domain. C-terminal associates with ER membrane via hydrophobic surface.
+,,C-terminal beta-barrel contains hydrophobic binding site.
+,,  binds +-benzomorphans (opioids bind -)
+,,
+,,"ER chaperone, calcium signaling"

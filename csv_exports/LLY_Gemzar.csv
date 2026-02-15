@@ -1,0 +1,30 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,Brand Name,Gemzar,,,
+,Generic Name,Gemcitabine,,,
+,Indication,,,,
+,Mechanism,,,,
+,Administration,,,,
+,IP,Potential at-risk launch by TEVA in 2008? 11/2010 PDUFA date.,,,
+,Economics,,,,
+,Clinical Studies,,,,
+,,Phase III Maintenance vs BSC in 1L NSCLC - ASCO #8011 2008,,,
+,,"n=663 50% adeno, 27% squamous. All had induction chemo, 49% had CR/PR.",,,
+,,  4.3m PFS vs 2.6m PFS. 13mo OS vs 10.2m OS.,,,
+,,,,,
+,,,,,
+,,,,,
+,,"Pancreatic Cancer, Gemcitabine vs. 5-FU, n=126",,,
+,,,,,
+,,,Gemzar,5-FU,p-value
+,,Patients,63,63,
+,,Stage IV,0.714,0.762,
+,,Clinical Benefit Response,0.222,0.048,0.004
+,,,,,
+,,Median Overall Survival,5.7 months,4.2 months,0.0009
+,,6-month probability,0.46,0.29,
+,,9-month probability,0.24,0.05,
+,,1-year probability,0.18,0.02,
+,,95% CI of the median,4.7 to 6.9,3.1 to 5.1,
+,,,,,
+,,Median TTP,2.1 months,.9 months,0.0013
+,,95% CI,1.9 to 3.4,.9 to 1.1,

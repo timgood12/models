@@ -1,0 +1,72 @@
+Main,Unnamed: 1,Unnamed: 2
+,5xFAD,APP/PSEN mutation mouse model of Alzheimer's
+,adaptive immune system,Uses B/T cells to learn pathogenic patterns. Contrast with innate immune system.
+,astrocyte,"With microglia, astrocytes form the main immune cells of the CNS."
+,B cells,"adaptive immune system core component, produces antibodies"
+,BDNF,
+,blood-brain barrier,
+,C1q,First subcomponent of the C1 complement complex that binds antibody–antigen clusters to initiate the classical complement cascade.
+,cachectin,protein known prior to discovery of TNF was found to be TNF
+,CCL2,
+,CD4+ T-cells,Helper T cells which coordinate immune response by activating other immune cells via cytokines. Essential for effective antibody production by B cells and activation of cytotoxic T cells and macrophages.
+,complement cascade,Component of innate immune system. Microbes activate.
+,complement receptors,sentinel
+,corticosteroid,Synthetic or natural adrenal‐cortex–derived steroid hormone used to suppress inflammation and immune responses
+,cortisol,endogenous corticosteroid
+,CXCL10,
+,CXCL2,
+,cytokine,Small secreted protein that acts as an intercellular messenger to regulate immune and inflammatory processes
+,dendritic cells,"Antigen-presenting cells, which act as a messenger between innate and adaptive immunity."
+,fibroblasts,Major connective tissue cell type which can secret cytokines.
+,frontal cortex,
+,gamma delta T cells,"Innate-like, they possess TCR (T-cell receptor) with different chains (alpha/beta are typical). Bridge innate/adaptive immunity by responding to stress signals without classical antigen presentation."
+,gasdermin D,
+,glia,
+,glucocorticoid receptor,"expressed in every cell, member nuclear hormone family. A cytosolic receptor, GR is bound to chaperone complex which includes HSPs."
+,,Cortisone results in dissociation of complex and translocates to the nucleus. GR binds as a homodimer to GREs.
+,,  The resulting GR-homodimer-GRE-containing DNA complex recruits coactivator or corepressor proteins which modify chromatin structure.
+,GRE,glucocorticoid receptor response elements
+,hippocampus,
+,HPA axis,hypothalamic–pituitary–adrenal axis
+,hypothalamus,"controls secretion of CRH, stimulating release of corticotropin from pituitary. Corticotropin induces release of cortisol by adrenal cortex."
+,IFN-gamma,
+,IkappaB,
+,IL-1,Interleukin-1 family of proinflammatory cytokines (including IL-1α and IL-1β) that drive fever and immune activation.
+,IL-1alpha,Cell‐associated form of interleukin-1 released upon cell damage to trigger local inflammatory signaling.
+,IL-1beta,Secreted form of interleukin-1 produced via inflammasome activation that promotes systemic inflammation and fever
+,IL-2,
+,IL-4,anti-inflammatory cytokine
+,IL-6,
+,IL-33,
+,innate immune system,"Non-specific response to pathogens via several mechanisms including NK cells, dendritic cells, mast cells, macrophages, neutrophils, cytokines, complement, TLR. Contrast with adaptive immune system."
+,lipocalin-2,downstream TNF inflammatory molecule
+,lymphocytes,Adaptive immune system white blood cell. B cells and T cells are the main lymphocytes.
+,lymphotoxin,TNF superfamily member
+,macrophages,"Large phagocytic cells of the innate immune system that engulf pathogens, dead cells, etc. They secrete inflammatory signals and present antigens to T cells, which link adaptive/innate."
+,microglia,Resident macrophage‐like immune cells of the central nervous system that survey and respond to injury or pathogens in the brain.
+,,"  With astrocytes, microglia form the primary immune cells of the CNS."
+,,  Polarization results in M1 pro-inflammatory phenotype or M2 anti-inflammatory. M1 releases inflammatory cytokines and chemokines.
+,,"    M1 is induced by IFN-gamma or LPS. M1 produces TNF-alpha, IL-6, IL-1beta, IL-12, CCL2."
+,,    M2 promote phagocytosis of of cell debris and misfolded proteins.
+,,"  Main function: immune surveillance, phagocytosis, immune defense, trophic support."
+,monocyte,innate immune system cells which engulf dead cells. They can differentiate into macrophages or dendritic cells. CD14 CD16 expression. Monocytes can produce TNF-alpha.
+,myeloid cells,
+,NF-kabbaB,interacts with GR-steroid complex
+,NLRP3,"Nod‐like receptor protein 3, an intracellular sensor that assembles the inflammasome to activate caspase-1 and produce IL-1β"
+,NOS2,
+,parenchyma,
+,PSD95,
+,steroid,"Lipid‐based molecule with a four‐ring core structure, including hormones and drugs that regulate metabolism, inflammation, and other functions"
+,synaptophysin,
+,T cells,"Lymphocytes which respond to antigens presented by other cells. Helper T cells (CD4+), cytotoxic T cells (CD8+), for example."
+,Th1,Subset of CD4⁺ T helper cells that secrete interferon-γ and drive cell-mediated immunity against intracellular pathogens
+,Th2,"Subset of CD4⁺ T helper cells that secrete IL-4, IL-5, and IL-13 to promote antibody production and allergic inflammation"
+,Th17,
+,Th22,
+,TLR,Component of innate immune system. Microbes activate this sentinel.
+,TNF-alpha,"Tumor necrosis factor-alpha, a potent proinflammatory cytokine produced by macrophages and other cells that mediates systemic inflammation"
+,,
+,,Antiinflammatory Action of Glucocorticoids -- New Mechanisms for Old Drugs. Rhen & Cidlowski. NEJM 2005.
+,,
+,,"Microglia Polarization From M1 to
+M2 in Neurodegenerative Diseases.  Guo et al. Front Ag Neurosci 2022."

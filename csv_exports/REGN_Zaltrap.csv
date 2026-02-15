@@ -1,0 +1,24 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,Brand Name,Zaltrap,,,
+,Generic Name,aflibercept ,,,
+,Mechanism,VEGF A/B trap. ,,,
+,Indication,Colorectal cancer,,,
+,Competition,,,,
+,Economics,50/50 with SNY,,,
+,Administration,IV,,,
+,Clinical Trials,,,,
+,,,,,
+,,Phase 3 Refractory metastatic colorectal cancer (VELOUR)',,,
+,,ECOG 3200,,Velour,
+,,FOLFOX,AV + Folfox,FOLFIRI,ZAL + FOL
+,n,292,293,612,614
+,ORR,0.086,0.227,0.111,0.198
+,Median PFS (mths),4.5,7.5,4.7,6.9
+,Median OS (mths),10.8,12.9,12.1,13.5
+,,,,,
+,,Expect BLA filing by end of year.,,,
+,,Not clear why this drug would garner much market share,,,
+,,,,,
+,,"Phase 3, 2nd line NSCLC",,,
+,,"n = 913, in combination with Docetaxel",,,
+,,Did not improve OS,,,

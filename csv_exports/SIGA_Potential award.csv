@@ -1,0 +1,35 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14
+,Ruling,"PharmAthene is entitled to a lump sum damage award in a still unspecified amount, with interest and fees, based on U. S. Government purchases of SIGA's smallpox drug supposedly anticipated in 2006.",,,,,,,,,,,,
+,,"The total award is likely to be substantial, but it will not be established until after the Court considers calculations to be provided by a designated expert.",,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Govt contracts through 2005,NIH grants (Aug 2004),,,,,11.1,,,,,,,
+,(smallpox),NIH (prior to 2003),,,,,1.1,,,,,,,
+,,US Army Medical Research (Sep 2005),,,,,3.2,,,,,,,
+,,US Army Medical Research Dec 2002),,,,,1.6,,,,,,,
+,,,,,,,17.0,,,,,,,
+,,,,,,,,,,,,,,
+,,"The Department of Homeland Security appropriation bill signed by  President  Bush on October 1, 2003 created a  discretionary reserve of $5.6B to fund Project BioShield",,,,,,,,,,,,
+,,"$3.4B over first 5 years, $2.2B over next 5 years",,,,,,,,,,,,
+,,"The Congressional  Budget Office reported that the DHS projects acquisition of 60M doses of new Smallpox vaccines over 3 years, beginning 2005",,,,,,,,,,,,
+,,CBO reports that the DHS will spend an additional $1B to replace expired stocks in 2007-2013,,,,,,,,,,,,
+,,Federal govt committed to $9B research spend in 2006,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Based on govt contract:,,,,,,,,,,,,,
+,BARDA contract (5/13/11),435,,,,,,,,,,,,
+,% to PharmAthene,0.5,,,,,,,,,,,,
+,Interest rate (inc fees),0.03,,,,,,,,,,,,
+,Lump sum payment,275.52249270180647,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Based on expert model:,,,,,,,,,,,,,
+,,2007,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,,,,
+,Units,,,,2.980649,2.980649,2.980649,2.980649,2.980649,,,,,
+,Price,,,,100.0,103.0,106.09,109.2727,112.550881,,,,,
+,Revenues,,,,298.0649,307.006847,316.21705241,325.7035639823,335.474670901769,,,Success prob.,,0.84
+,COGS,,,,44.709735,46.051027049999995,47.4325578615,48.855534597345,50.32120063526535,,,COGS,,0.15
+,Gross Profit,,,,253.35516500000003,260.95581995,268.7844945485,276.848029384955,285.15347026650363,,,Op Exp,,0.2
+,Op Exp,,,,59.61298000000001,61.4013694,63.243410482,65.14071279646001,67.0949341803538,,,Tax rate,,0.35
+,Operating income,,,,193.742185,199.55445054999998,205.5410840665,211.707316588495,218.05853608614984,,,Discount,,0.2331
+,Taxes,,,,67.80976475,69.84405769249999,71.93937942327499,74.09756080597325,76.32048763015244,,,NPV,,367.92261948356696
+,Net income,,,,125.93242025,129.71039285749998,133.601704643225,137.60975578252175,141.7380484559974,,,Risk adj. NPV,,309.0550003661962
+,,,,,,,,,,,,Int rate,,0.03
+,,,,,,,,,,,,Award,,391.5016279671361

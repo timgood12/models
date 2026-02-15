@@ -1,0 +1,19 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+INCB18424,,,,,,
+,Name,Company,Indication,Phase,Mechanism,Administration
+,"CP-690,550","Pfizer, PFE",Rheumatoid Arthritis,"II completed, II/III ongoing",JAK inhibitor,Oral
+,"CP-690,550","Pfizer, PFE",Psoriasis,II ongoing,JAK inhibitor,Oral
+,"CP-690,550","Pfizer, PFE",Psoriasis,II ongoing,JAK inhibitor,Topical
+,"CP-690,550","Pfizer, PFE",Transplant Rejection,"II completed, II ongoing",JAK inhibitor,Oral
+,"CP-690,550","Pfizer, PFE",Crohn's Disease,II ongoing,JAK inhibitor,Oral
+,INCB18424,"Incyte, INCY",Myelofibrosis,"II ongoing, III planned","JAK 1/2 inhibitor, no JAK3 effect",Oral
+,INCB18424,"Incyte, INCY",Rheumatoid Arthritis,"II ongoing, II planned","JAK 1/2 inhibitor, no JAK3 effect",Oral
+,CEP-701,"Cephalon, CEPH",PV/ET,II ongoing,,Oral
+,TG101438,TargeGen,Myelofibrosis,I/II ongoing,JAK2 inhibitor,Oral
+,XL-019,"Exelixis, EXEL",Polycythemia Vera,I ongoing,,Oral
+,XL-019,"Exelixis, EXEL",Myelofibrosis,I ongoing,,Oral
+,VX-509,"Vertex, VRTX",???,I ongoing,JAK3 inhibitor,Oral
+,Rigel,"Rigel, RIGL",,,,
+,Cytopia,,,,,
+,Abbott,"Abbott, ABT",,,,
+,Supergen,"Supergen, SUPG",,,,

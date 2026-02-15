@@ -1,0 +1,58 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+,Brand,Generic,DBID,Target,MOA,MW,FDA,Class,AA
+,Refludan,lepirudin,1,thrombin,peptide inhibitor,6979,,rhProtein,65
+,Erbitux,cetuximab,2,EGFR,mab,145781.6,,mab,
+,Pulmozyme,dornase alfa,3,extracellular DNA,recombinant enzyme,29253.9,,rhProtein,260
+,Ontak,denileukin difitox,4,IL-2,protein-toxin conjugate,58000,,fusion protein,520
+,Enbrel,etanercept,5,TNF-alpha,soluble receptor,51235,,rhProtein,934
+,Angiomax,bivalirudin,6,thrombin,peptide inhibitor,2180,,peptide,20
+,Lupron,leuprolide,7,GnRHR,GnRH analog,1209,,peptide,9
+,Pegasys,peginterferon alfa-2a,8,Type 1 IFNR,IFNR agonist,60000,,rhProtein,165
+,Activase,alteplase,9,"fibrin, plasminogen",recombinant enzyme,59000,,rhProtein,527
+,Geref,sermorelin,10,GHRHR,GRF mimetic,3358,,peptide,29
+,Wellferon,interferon alfa-n1,11,Type 1 IFNR,IFNR agonist,19241,,purified protein,166
+,Aranesp,darbepoetin alfa,12,EPOR,EPOR agonist,18396,,rhProtein,
+,Kinlytic,urokinase,13,plasminogen,protease,31126.5,,rhProtein,
+,Zoladex,goserelin,14,GnRHR,LHRH analog,1269,,small molecule,
+,,reteplase,15,plasminogen,tPA analog,39589.6,,rhProtein,355
+,Procrit,erythropoietin,16,EPOR,EPOR agonist,18396,,rhProtein,165
+,,salmon calcitonin,17,Calcitonin receptor,calcitonin receptor agonist,3431.853,,peptide,32
+,,interferon alfa-n3,18,Type 1 IFNR,IFNR agonist,,,purified protein,166
+,Neulasta,pegfilgrastim,19,G-CSF Receptor,G-CSF,39000,,rhProtein,
+,Leukine,sargramostim,20,GM-CSF-R-alpha,GM-CSF,14434.5,,rhProtein,127
+,,secretin,21,secretin receptor,secretin receptor agonist,3039,,peptide,27
+,,peginterferon alfa-2b,22,Type 1 IFNR,IFNR agonist,31000,,rhProtein,
+,Rylaze,asparginase,23,L-asparagine,recombinant enzyme,,,,
+,Thyrogen,thyrotropin alfa,24,TSH receptor,TSH receptor agonist,22673,,rhProtein,
+,Advate,antihemophilic factor,25,Factor IXa,Factor IXa complex component,264726,,rhProtein,2332
+,Kineret,anakinra,26,IL-1,soluble receptor,17257.6,,rhProtein,153
+,,gramicidin D,27,,,1811.253,,peptide,15
+,Gammagard,human immunoglobulin G,28,,,142682.3,,purified protein,
+,,anistreplase,29,plasminogen,recombinant enzyme,59042.3,,rhProtein,527
+,Humulin,insulin human,30,Insulin Receptor,insulin receptor agonist,5808,,rhProtein,51
+,TNKase,tenecteplase,31,plasminogen,tPA analog,58951.2,,rhProtein,527
+,Menopur,menotropins,32,FSH receptor,FSH agonist,23390.3,,purified protein,
+,Actimmune,interferon gamma-1b,33,Type 1 IFNR,IFNR agonist,17145.6,,rhProtein,140
+,,interferon alfa-2a,34,Type 1 IFNR,IFNR agonist,19241.1,,rhProtein,165
+,Ddavp,desmopressin,35,"V1, V2, V3 receptors",vasopressin receptor agonist,1069,,peptide,8
+,NovoSeven,coagulation factor VIIa recombinant human,36,"Factor IX, Factor X",recombinant enzyme,45079,,,
+,,interferon alfa-2a,37,Type 1 IFNR,IFNR agonist,19241.1,,rhProtein,165
+,Neumega,oprelvekin,38,IL-11 receptor,IL-11 receptor agonist,19047,,rhProtein,177
+,Kepivance,palifermin,39,KGF receptor,KGF receptor agonist,16192.7,,rhProtein,140
+,Glucagen,glucagon,40,Glucagon receptor,Glucagon receptor agonist,3767.1,,peptide,29
+,Proleukin,aldesleukin,41,IL-2 receptor,IL-2 receptor agonist,15314.8,,rhProtein,12
+,Myobloc,botulinum toxin type B,42,,,150804,,,
+,Xolair,omalizumab,43,IgE,mab,149000,,mab,
+,,lutropin alfa,44,LH receptor,LH receptor agonist,30000,,rhProtein,
+,,lyme disease vaccine,45,,,27743,,,
+,Humalog,insulin lispro,46,Insulin Receptor,insulin receptor agonist,5808,,rhProtein,51
+,Lantus,insulin glargine,47,Insulin Receptor,insulin receptor agonist,6063,,rhProtein,
+,Xiaflex,collagenase clostridium histolyticum,48,,recombinant enzyme,,,,
+,Elitek,rasburicase,49,,,34109.5,,,
+,,cetrorelix,50,GnRHR,GnRH analog,1431,,peptide,10
+,Humira,adalimumab,51,TNF-alpha,mab,144190,,mab,
+,Genotropin,somatotropin,52,Growth Hormone receptor,GH receptor agonist,22129,,rhProtein,
+,Cerezyme,imiglucerase,53,,recombinant enzyme,55597.4,,rhProtein,497
+,,abciximab,54,,mab,145651,,mab,
+,Cosentyx,secukinumab,9029,IL-17A,mab,,,mab,
+,,secretin,9532,secretin receptor,secretin receptor agonist,3039,,peptide,27

@@ -1,0 +1,25 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,Brand,VK2735,,,
+,Molecule,Peptide,,,
+,Patents,11744873,,,
+,Clinical Trials,,,,
+,,"Phase II ""VENTURE""",,,
+,,,13 weeks,lbs,Vomiting
+,,Placebo,-1.8,-3.9600000000000004,0
+,,2.5mg,-9.2,-20.24,0.09
+,,5.0mg,-10.7,-23.54,0.17
+,,10mg,-13.3,-29.260000000000005,0.17
+,,15mg,-14.6,-32.120000000000005,0.29
+,,,,,
+,,Nausea,0.43,"(68% mild, 32% moderate)",
+,,Vomiting,0.18,,
+,,,,,
+,,,,,
+,,,,,
+,,"Phase III ""SURMOUNT-1"" - Mounjaro vs. placebo in obesity - NEJM 2022 - NCT04184622",,,
+,,,20 weeks,Nausea,Vomiting
+,,Pooled,-12.8,,
+,,Placebo,-2.7,,
+,,5mg,,0.25,0.08
+,,10mg,,0.33,0.11
+,,15mg,,0.31,0.12

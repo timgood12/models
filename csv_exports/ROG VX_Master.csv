@@ -1,0 +1,37 @@
+Main,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,Brand,Generic,Indication,Approved,Economics,MOA,
+,Tamiflu,oseltamivir,Influenza,1999,Gilead,Neuraminidase,
+,Valcyte,valganciclovir,Herpes,2001-03-09 00:00:00,,,
+,,,,,,,
+,Dalcetrapib fails.,,,,,,
+,July 2013: aleglitazar stopped,,,,,,
+,2014: bitopertin (RG1678) fails.,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,"7166, triple reuptake inhibitor for depression, abandoned.",,,,,,
+,"7351, TAAR1 partial agonist for depression, abandoned",,,,,,
+,R1579 (carmegliptin),T2D,II,1,DPP-IV,,NCE
+,R667 (palovarotene),Emphysema,II,1,Nuclear Receptor Agonist,,NCE
+,RG3487,"Alzheimer's, Schizophrenia",II,1,Alpha-7,,NCE
+,RG3484,Cervical Neoplasia,II,1,HPV16 vaccine,,Vaccine
+,R7128,HCV,II,VRUS,Nucleoside Polymerase,"ANDS, VX-222",NCE
+,R7227,HCV,I,ITMN,Protease Inhibitor,11/09: Safety issue,NCE
+,R7234,T2D,I,1,11-beta-HSD,,NCE
+,R4929,T2D,I,1,11-beta-HSD,,NCE
+,R7089,T2D,I,1,Y2R peptide agonist,,NCE
+,RG7426,T1D,I,1,,,NCE
+,RO4998452,T2D,II,1,,,NCE
+,EVT101,Treatment Resistant Depression,II,1,NMDA?,,NCE?
+,RG7090 (basimglurant),Depression,II,1,mGluR5,Outlicensed to Noema Pharma,NCE
+,R7201 (tofogliflozin),T2D,II,Chugai,SGLT2,NCE,
+,RG7423,Solid Tumors,II,1,Small Molecule,NCE,
+,R3637 (lebrikizumab),Asthma,II,LLY,Anti IL-13,Antibody,
+,RG3638 (onartuzumab),Solid Tumors,III,1,MetMab,Antibody,
+,RG3639 (dulanermin),Solid Tumors,II,AMGN,DR5?,Protein,
+,R7376 (PLX5568),Polycystic Kidney Disease,II,Plexxicon,RAF kinase inhibitor,NCE,
+,R1512,PVD,I,Genmab,Selectin,Antibody,
+,ABT-263 (navitoclax) RG7601?,R/R CLL,II,ABT,Bcl-2,NCE,
+,R7417 (lampalizumab),AMD,I,1,Anti-Factor-D,NCE,
+,R7273,Dyslipidemia,I,1,ABCA1 inducer,NCE,
+,RG7906,Schizophrenia,II,,TAAR agonist,,
